@@ -1,0 +1,90 @@
+# Rodada 11 de 38
+
+EC Vitória x São Paulo | Sáb. 11/04 | 16:30
+Remo x Vasco da Gama | Sáb. 11/04 | 16:30
+Fluminense x Flamengo | Sáb. 11/04 | 18:30
+Mirassol x Bahia | Sáb. 11/04 | 18:30
+Santos x Atlético-MG | Sáb. 11/04 | 20:00
+Internacional x Grêmio | Sáb. 11/04 | 20:30
+Athletico-PR x Chapecoense | Dom. 12/04 | 11:00
+Botafogo x Coritiba | Dom. 12/04 | 16:00
+Cruzeiro x Bragantino | Dom. 12/04 | 18:30
+Corinthians x Palmeiras | Dom. 12/04 | 18:30
+
+# Rodada 12 de 38
+
+Chapecoense x Botafogo | Sáb. 18/04 | 18:30
+Vasco da Gama x São Paulo | Sáb. 18/04 | 18:30
+EC Vitória x Corinthians | Sáb. 18/04 | 20:00
+Cruzeiro x Grêmio | Sáb. 18/04 | 20:30
+Internacional x Mirassol | Dom. 19/04 | 11:00
+Coritiba x Atlético-MG | Dom. 19/04 | 16:00
+Santos x Fluminense | Dom. 19/04 | 16:00
+Palmeiras x Athletico-PR | Dom. 19/04 | 18:30
+Bragantino x Remo | Dom. 19/04 | 18:30
+Flamengo x Bahia | Dom. 19/04 | 19:30
+
+# Rodada 13 de 38
+
+Botafogo x Internacional | Sáb. 25/04 | 18:30
+Remo x Cruzeiro | Sáb. 25/04 | 18:30
+Bahia x Santos | Sáb. 25/04 | 18:30
+São Paulo x Mirassol | Sáb. 25/04 | 21:00
+Grêmio x Coritiba | Dom. 26/04 | 16:00
+Corinthians x Vasco da Gama | Dom. 26/04 | 16:00
+Bragantino x Palmeiras | Dom. 26/04 | 18:30
+Athletico-PR x EC Vitória | Dom. 26/04 | 18:30
+Atlético-MG x Flamengo | Dom. 26/04 | 20:30
+Fluminense x Chapecoense | Dom. 26/04 | 20:30
+
+# Rodada 14 de 38
+
+EC Vitória x Coritiba | Sáb. 02/05 | 16:00
+Botafogo x Remo | Sáb. 02/05 | 16:00
+Palmeiras x Santos | Sáb. 02/05 | 18:30
+Athletico-PR x Grêmio | Sáb. 02/05 | 20:30
+Cruzeiro x Atlético-MG | Sáb. 02/05 | 21:00
+São Paulo x Bahia | Dom. 03/05 | 16:00
+Flamengo x Vasco da Gama | Dom. 03/05 | 16:00
+Chapecoense x Bragantino | Dom. 03/05 | 18:30
+Internacional x Fluminense | Dom. 03/05 | 18:30
+Mirassol x Corinthians | Dom. 03/05 | 20:30
+
+# Rodada 15 de 38
+
+Coritiba x Internacional | Sáb. 09/05 | 16:00
+Fluminense x EC Vitória | Sáb. 09/05 | 18:00
+Bahia x Cruzeiro | Sáb. 09/05 | 21:00
+Remo x Palmeiras | Dom. 10/05 | 16:00
+Atlético-MG x Botafogo | Dom. 10/05 | 16:00
+Santos x Bragantino | Dom. 10/05 | 18:30
+Mirassol x Chapecoense | Dom. 10/05 | 18:30
+Corinthians x São Paulo | Dom. 10/05 | 18:30
+Grêmio x Flamengo | Dom. 10/05 | 19:30
+Vasco da Gama x Athletico-PR | Dom. 10/05 | 20:30
+
+# Rodada 16 de 38
+
+Internacional x Vasco da Gama | Sáb. 16/05 | 18:30
+Atlético-MG x Mirassol | Sáb. 16/05 | 18:30
+Fluminense x São Paulo | Sáb. 16/05 | 20:30
+Palmeiras x Cruzeiro | Sáb. 16/05 | 21:00
+Santos x Coritiba | Dom. 17/05 | 11:00
+Bahia x Grêmio | Dom. 17/05 | 16:00
+Botafogo x Corinthians | Dom. 17/05 | 16:00
+Chapecoense x Remo | Dom. 17/05 | 18:30
+Bragantino x EC Vitória | Dom. 17/05 | 18:30
+Athletico-PR x Flamengo | Dom. 17/05 | 19:30
+
+# Rodada 17 de 38
+
+EC Vitória x Internacional | Sáb. 23/05 | 17:00
+São Paulo x Botafogo | Sáb. 23/05 | 17:00
+Grêmio x Santos | Sáb. 23/05 | 19:00
+Mirassol x Fluminense | Sáb. 23/05 | 19:00
+Flamengo x Palmeiras | Sáb. 23/05 | 21:00
+Remo x Athletico-PR | Dom. 24/05 | 16:00
+Cruzeiro x Chapecoense | Dom. 24/05 | 16:00
+Corinthians x Atlético-MG | Dom. 24/05 | 18:30
+Vasco da Gama x Bragantino | Dom. 24/05 | 20:30
+Coritiba x Bahia | Seg. 25/05 | 20:00
