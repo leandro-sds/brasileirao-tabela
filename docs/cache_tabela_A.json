@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775949910,
+  "timestamp": 1775951699,
   "dados": [
     {
       "posicao": 1,
@@ -60,19 +60,19 @@
     },
     {
       "posicao": 4,
-      "pontos": 18,
+      "pontos": 20,
       "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
       "jogos": 10,
-      "vitorias": 5,
-      "empates": 3,
+      "vitorias": 6,
+      "empates": 2,
       "derrotas": 2,
-      "gols_pro": 14,
+      "gols_pro": 15,
       "gols_contra": 10,
-      "saldo_gols": 4,
-      "aproveitamento": 60,
+      "saldo_gols": 5,
+      "aproveitamento": 66,
       "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -195,6 +195,25 @@
       "posicao": 11,
       "pontos": 13,
       "time": {
+        "nome_popular": "Grêmio",
+        "sigla": "GRE"
+      },
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 14,
+      "gols_contra": 14,
+      "saldo_gols": 0,
+      "aproveitamento": 39,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 13,
+      "time": {
         "nome_popular": "Vasco da Gama",
         "sigla": "VAS"
       },
@@ -206,12 +225,31 @@
       "gols_contra": 17,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 13,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Internacional",
+        "sigla": "INT"
+      },
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 9,
+      "gols_contra": 10,
+      "saldo_gols": -1,
+      "aproveitamento": 39,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 14,
       "pontos": 12,
       "time": {
         "nome_popular": "Botafogo",
@@ -225,45 +263,7 @@
       "gols_contra": 19,
       "saldo_gols": -3,
       "aproveitamento": 44,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
-      "pontos": 12,
-      "time": {
-        "nome_popular": "Grêmio",
-        "sigla": "GRE"
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 14,
-      "gols_contra": 14,
-      "saldo_gols": 0,
-      "aproveitamento": 40,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 14,
-      "pontos": 12,
-      "time": {
-        "nome_popular": "Internacional",
-        "sigla": "INT"
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 9,
-      "gols_contra": 10,
-      "saldo_gols": -1,
-      "aproveitamento": 40,
-      "variacao_posicao": -1,
+      "variacao_posicao": -4,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -347,25 +347,6 @@
       "posicao": 19,
       "pontos": 7,
       "time": {
-        "nome_popular": "Mirassol",
-        "sigla": "MIR"
-      },
-      "jogos": 10,
-      "vitorias": 1,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 11,
-      "gols_contra": 15,
-      "saldo_gols": -4,
-      "aproveitamento": 23,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 20,
-      "pontos": 7,
-      "time": {
         "nome_popular": "Cruzeiro",
         "sigla": "CRU"
       },
@@ -377,7 +358,26 @@
       "gols_contra": 20,
       "saldo_gols": -8,
       "aproveitamento": 23,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 20,
+      "pontos": 6,
+      "time": {
+        "nome_popular": "Mirassol",
+        "sigla": "MIR"
+      },
+      "jogos": 10,
+      "vitorias": 1,
+      "empates": 3,
+      "derrotas": 6,
+      "gols_pro": 11,
+      "gols_contra": 16,
+      "saldo_gols": -5,
+      "aproveitamento": 20,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     }
