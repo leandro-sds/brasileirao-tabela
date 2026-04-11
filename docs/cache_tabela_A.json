@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775937194,
+  "timestamp": 1775938663,
   "dados": [
     {
       "posicao": 1,
@@ -22,19 +22,19 @@
     },
     {
       "posicao": 2,
-      "pontos": 21,
+      "pontos": 20,
       "time": {
         "nome_popular": "São Paulo",
         "sigla": "SAO"
       },
       "jogos": 11,
       "vitorias": 6,
-      "empates": 3,
-      "derrotas": 2,
+      "empates": 2,
+      "derrotas": 3,
       "gols_pro": 15,
-      "gols_contra": 7,
-      "saldo_gols": 8,
-      "aproveitamento": 63,
+      "gols_contra": 8,
+      "saldo_gols": 7,
+      "aproveitamento": 60,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -174,6 +174,25 @@
     },
     {
       "posicao": 10,
+      "pontos": 14,
+      "time": {
+        "nome_popular": "Vitória",
+        "sigla": "VIT"
+      },
+      "jogos": 10,
+      "vitorias": 4,
+      "empates": 2,
+      "derrotas": 4,
+      "gols_pro": 10,
+      "gols_contra": 14,
+      "saldo_gols": -4,
+      "aproveitamento": 46,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 11,
       "pontos": 13,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -187,12 +206,12 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 2,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 11,
+      "posicao": 12,
       "pontos": 12,
       "time": {
         "nome_popular": "Botafogo",
@@ -206,12 +225,12 @@
       "gols_contra": 19,
       "saldo_gols": -3,
       "aproveitamento": 44,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 13,
       "pontos": 12,
       "time": {
         "nome_popular": "Grêmio",
@@ -225,12 +244,12 @@
       "gols_contra": 14,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 13,
+      "posicao": 14,
       "pontos": 12,
       "time": {
         "nome_popular": "Internacional",
@@ -244,26 +263,7 @@
       "gols_contra": 10,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 14,
-      "pontos": 12,
-      "time": {
-        "nome_popular": "Vitória",
-        "sigla": "VIT"
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 9,
-      "gols_contra": 14,
-      "saldo_gols": -5,
-      "aproveitamento": 40,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
