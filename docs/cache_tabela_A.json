@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775940926,
+  "timestamp": 1775942468,
   "dados": [
     {
       "posicao": 1,
@@ -24,25 +24,6 @@
       "posicao": 2,
       "pontos": 20,
       "time": {
-        "nome_popular": "São Paulo",
-        "sigla": "SAO"
-      },
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 15,
-      "gols_contra": 8,
-      "saldo_gols": 7,
-      "aproveitamento": 60,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 3,
-      "pontos": 20,
-      "time": {
         "nome_popular": "Fluminense",
         "sigla": "FLU"
       },
@@ -54,7 +35,26 @@
       "gols_contra": 11,
       "saldo_gols": 6,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 3,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "São Paulo",
+        "sigla": "SAO"
+      },
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 3,
+      "gols_pro": 15,
+      "gols_contra": 9,
+      "saldo_gols": 6,
+      "aproveitamento": 60,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -136,6 +136,25 @@
     },
     {
       "posicao": 8,
+      "pontos": 15,
+      "time": {
+        "nome_popular": "Vasco da Gama",
+        "sigla": "VAS"
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 3,
+      "derrotas": 4,
+      "gols_pro": 16,
+      "gols_contra": 16,
+      "saldo_gols": 0,
+      "aproveitamento": 45,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
       "pontos": 14,
       "time": {
         "nome_popular": "Atlético-MG",
@@ -149,12 +168,12 @@
       "gols_contra": 12,
       "saldo_gols": 2,
       "aproveitamento": 46,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "pontos": 14,
       "time": {
         "nome_popular": "Bragantino",
@@ -168,12 +187,12 @@
       "gols_contra": 10,
       "saldo_gols": 0,
       "aproveitamento": 46,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 10,
+      "posicao": 11,
       "pontos": 14,
       "time": {
         "nome_popular": "Vitória",
@@ -183,30 +202,11 @@
       "vitorias": 4,
       "empates": 2,
       "derrotas": 4,
-      "gols_pro": 10,
+      "gols_pro": 11,
       "gols_contra": 14,
-      "saldo_gols": -4,
+      "saldo_gols": -3,
       "aproveitamento": 46,
-      "variacao_posicao": 4,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 11,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Vasco da Gama",
-        "sigla": "VAS"
-      },
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 15,
-      "gols_contra": 16,
-      "saldo_gols": -1,
-      "aproveitamento": 39,
-      "variacao_posicao": 1,
+      "variacao_posicao": 3,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -326,25 +326,6 @@
     },
     {
       "posicao": 18,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Remo",
-        "sigla": "REM"
-      },
-      "jogos": 11,
-      "vitorias": 1,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 10,
-      "gols_contra": 17,
-      "saldo_gols": -7,
-      "aproveitamento": 24,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 19,
       "pontos": 7,
       "time": {
         "nome_popular": "Cruzeiro",
@@ -358,7 +339,26 @@
       "gols_contra": 20,
       "saldo_gols": -8,
       "aproveitamento": 23,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 19,
+      "pontos": 7,
+      "time": {
+        "nome_popular": "Remo",
+        "sigla": "REM"
+      },
+      "jogos": 11,
+      "vitorias": 1,
+      "empates": 4,
+      "derrotas": 6,
+      "gols_pro": 10,
+      "gols_contra": 18,
+      "saldo_gols": -8,
+      "aproveitamento": 21,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
