@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776032371,
+  "timestamp": 1776034736,
   "dados": [
     {
       "posicao": 1,
@@ -32,8 +32,8 @@
       "empates": 2,
       "derrotas": 2,
       "gols_pro": 18,
-      "gols_contra": 9,
-      "saldo_gols": 9,
+      "gols_contra": 10,
+      "saldo_gols": 8,
       "aproveitamento": 66,
       "variacao_posicao": 2,
       "ultimos_jogos": [],
@@ -62,6 +62,25 @@
       "posicao": 4,
       "pontos": 20,
       "time": {
+        "nome_popular": "Fluminense",
+        "sigla": "FLU"
+      },
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 3,
+      "gols_pro": 18,
+      "gols_contra": 13,
+      "saldo_gols": 5,
+      "aproveitamento": 60,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 20,
+      "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
@@ -73,26 +92,7 @@
       "gols_contra": 10,
       "saldo_gols": 5,
       "aproveitamento": 66,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
-      "pontos": 20,
-      "time": {
-        "nome_popular": "Fluminense",
-        "sigla": "FLU"
-      },
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 17,
-      "gols_contra": 13,
-      "saldo_gols": 4,
-      "aproveitamento": 60,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -136,25 +136,6 @@
     },
     {
       "posicao": 8,
-      "pontos": 15,
-      "time": {
-        "nome_popular": "Bragantino",
-        "sigla": "BGT"
-      },
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 11,
-      "gols_contra": 11,
-      "saldo_gols": 0,
-      "aproveitamento": 45,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 9,
       "pontos": 14,
       "time": {
         "nome_popular": "Atlético-MG",
@@ -168,7 +149,26 @@
       "gols_contra": 13,
       "saldo_gols": 1,
       "aproveitamento": 42,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
+      "pontos": 14,
+      "time": {
+        "nome_popular": "Bragantino",
+        "sigla": "BGT"
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 2,
+      "derrotas": 5,
+      "gols_pro": 11,
+      "gols_contra": 12,
+      "saldo_gols": -1,
+      "aproveitamento": 42,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -307,6 +307,25 @@
     },
     {
       "posicao": 17,
+      "pontos": 10,
+      "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 11,
+      "vitorias": 2,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 14,
+      "gols_contra": 21,
+      "saldo_gols": -7,
+      "aproveitamento": 30,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 18,
       "pontos": 8,
       "time": {
         "nome_popular": "Remo",
@@ -320,26 +339,7 @@
       "gols_contra": 18,
       "saldo_gols": -7,
       "aproveitamento": 24,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 18,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 11,
-      "vitorias": 1,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 13,
-      "gols_contra": 21,
-      "saldo_gols": -8,
-      "aproveitamento": 24,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
