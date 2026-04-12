@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776001849,
+  "timestamp": 1776004233,
   "dados": [
     {
       "posicao": 1,
@@ -98,19 +98,19 @@
     },
     {
       "posicao": 6,
-      "pontos": 16,
+      "pontos": 17,
       "time": {
         "nome_popular": "Athletico-PR",
         "sigla": "CAP"
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 5,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 4,
       "gols_pro": 15,
       "gols_contra": 13,
       "saldo_gols": 2,
-      "aproveitamento": 53,
+      "aproveitamento": 51,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
@@ -307,19 +307,19 @@
     },
     {
       "posicao": 17,
-      "pontos": 8,
+      "pontos": 9,
       "time": {
         "nome_popular": "Chapecoense",
         "sigla": "CHA"
       },
-      "jogos": 9,
+      "jogos": 10,
       "vitorias": 1,
-      "empates": 5,
+      "empates": 6,
       "derrotas": 3,
       "gols_pro": 10,
       "gols_contra": 16,
       "saldo_gols": -6,
-      "aproveitamento": 29,
+      "aproveitamento": 30,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
