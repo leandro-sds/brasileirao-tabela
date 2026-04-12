@@ -1,21 +1,21 @@
 {
-  "timestamp": 1776028897,
+  "timestamp": 1776030858,
   "dados": [
     {
       "posicao": 1,
-      "pontos": 25,
+      "pontos": 26,
       "time": {
         "nome_popular": "Palmeiras",
         "sigla": "PAL"
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 8,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 1,
       "gols_pro": 21,
       "gols_contra": 10,
       "saldo_gols": 11,
-      "aproveitamento": 83,
+      "aproveitamento": 78,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -136,6 +136,25 @@
     },
     {
       "posicao": 8,
+      "pontos": 15,
+      "time": {
+        "nome_popular": "Bragantino",
+        "sigla": "BGT"
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 3,
+      "derrotas": 4,
+      "gols_pro": 11,
+      "gols_contra": 11,
+      "saldo_gols": 0,
+      "aproveitamento": 45,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
       "pontos": 14,
       "time": {
         "nome_popular": "Atlético-MG",
@@ -149,26 +168,7 @@
       "gols_contra": 13,
       "saldo_gols": 1,
       "aproveitamento": 42,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 9,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Bragantino",
-        "sigla": "BGT"
-      },
-      "jogos": 10,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 4,
-      "gols_pro": 10,
-      "gols_contra": 10,
-      "saldo_gols": 0,
-      "aproveitamento": 46,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -288,14 +288,14 @@
     },
     {
       "posicao": 16,
-      "pontos": 10,
+      "pontos": 11,
       "time": {
         "nome_popular": "Corinthians",
         "sigla": "COR"
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 2,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 4,
       "gols_pro": 8,
       "gols_contra": 11,
@@ -328,6 +328,25 @@
       "posicao": 18,
       "pontos": 8,
       "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 11,
+      "vitorias": 1,
+      "empates": 5,
+      "derrotas": 5,
+      "gols_pro": 13,
+      "gols_contra": 21,
+      "saldo_gols": -8,
+      "aproveitamento": 24,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 19,
+      "pontos": 8,
+      "time": {
         "nome_popular": "Chapecoense",
         "sigla": "CHA"
       },
@@ -339,26 +358,7 @@
       "gols_contra": 18,
       "saldo_gols": -8,
       "aproveitamento": 26,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 19,
-      "pontos": 7,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 10,
-      "vitorias": 1,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 12,
-      "gols_contra": 20,
-      "saldo_gols": -8,
-      "aproveitamento": 23,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
