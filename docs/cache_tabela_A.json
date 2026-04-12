@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776018767,
+  "timestamp": 1776022206,
   "dados": [
     {
       "posicao": 1,
@@ -117,19 +117,19 @@
     },
     {
       "posicao": 7,
-      "pontos": 15,
+      "pontos": 16,
       "time": {
         "nome_popular": "Coritiba",
         "sigla": "CFC"
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 4,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 3,
       "gols_pro": 11,
       "gols_contra": 10,
       "saldo_gols": 1,
-      "aproveitamento": 50,
+      "aproveitamento": 48,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
@@ -195,6 +195,25 @@
       "posicao": 11,
       "pontos": 13,
       "time": {
+        "nome_popular": "Botafogo",
+        "sigla": "BOT"
+      },
+      "jogos": 10,
+      "vitorias": 4,
+      "empates": 1,
+      "derrotas": 5,
+      "gols_pro": 16,
+      "gols_contra": 19,
+      "saldo_gols": -3,
+      "aproveitamento": 43,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 13,
+      "time": {
         "nome_popular": "Grêmio",
         "sigla": "GRE"
       },
@@ -206,12 +225,12 @@
       "gols_contra": 14,
       "saldo_gols": 0,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 13,
       "pontos": 13,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -225,12 +244,12 @@
       "gols_contra": 17,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 13,
+      "posicao": 14,
       "pontos": 13,
       "time": {
         "nome_popular": "Internacional",
@@ -244,12 +263,12 @@
       "gols_contra": 10,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
+      "faixa_classificacao": null
     },
     {
-      "posicao": 14,
+      "posicao": 15,
       "pontos": 13,
       "time": {
         "nome_popular": "Santos",
@@ -263,26 +282,7 @@
       "gols_contra": 16,
       "saldo_gols": -2,
       "aproveitamento": 39,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 15,
-      "pontos": 12,
-      "time": {
-        "nome_popular": "Botafogo",
-        "sigla": "BOT"
-      },
-      "jogos": 9,
-      "vitorias": 4,
-      "empates": 0,
-      "derrotas": 5,
-      "gols_pro": 16,
-      "gols_contra": 19,
-      "saldo_gols": -3,
-      "aproveitamento": 44,
-      "variacao_posicao": -5,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
