@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775951699,
+  "timestamp": 1775956263,
   "dados": [
     {
       "posicao": 1,
@@ -119,25 +119,6 @@
       "posicao": 7,
       "pontos": 15,
       "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
-      },
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 14,
-      "gols_contra": 12,
-      "saldo_gols": 2,
-      "aproveitamento": 45,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
-      "pontos": 15,
-      "time": {
         "nome_popular": "Coritiba",
         "sigla": "CFC"
       },
@@ -149,7 +130,26 @@
       "gols_contra": 10,
       "saldo_gols": 1,
       "aproveitamento": 50,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
+      "pontos": 14,
+      "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 2,
+      "derrotas": 5,
+      "gols_pro": 14,
+      "gols_contra": 13,
+      "saldo_gols": 1,
+      "aproveitamento": 42,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -250,6 +250,25 @@
     },
     {
       "posicao": 14,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Santos",
+        "sigla": "SAN"
+      },
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 14,
+      "gols_contra": 16,
+      "saldo_gols": -2,
+      "aproveitamento": 39,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 15,
       "pontos": 12,
       "time": {
         "nome_popular": "Botafogo",
@@ -263,26 +282,7 @@
       "gols_contra": 19,
       "saldo_gols": -3,
       "aproveitamento": 44,
-      "variacao_posicao": -4,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 15,
-      "pontos": 11,
-      "time": {
-        "nome_popular": "Santos",
-        "sigla": "SAN"
-      },
-      "jogos": 11,
-      "vitorias": 2,
-      "empates": 5,
-      "derrotas": 4,
-      "gols_pro": 13,
-      "gols_contra": 16,
-      "saldo_gols": -3,
-      "aproveitamento": 33,
-      "variacao_posicao": 0,
+      "variacao_posicao": -5,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
