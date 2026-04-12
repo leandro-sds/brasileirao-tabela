@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-scraper.py — Baixa a tabela do Brasileirão Série A do Terra
-e gera docs/cache_tabela_A.json no formato esperado pelo addon NVDA.
+scraper.py — Baixa a tabela do Brasileirão Série A e Série B do Terra
+e gera docs/cache_tabela_A.json e docs/cache_tabela_B.json
+no formato esperado pelo addon NVDA.
 """
 
 import json
@@ -12,8 +13,19 @@ import urllib.request
 import urllib.error
 from html.parser import HTMLParser
 
-URL_TERRA = "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/"
-OUTPUT_FILE = "docs/cache_tabela_A.json"
+SOURCES = [
+    {
+        "url":    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/tabela/",
+        "output": "docs/cache_tabela_A.json",
+        "label":  "Série A",
+    },
+    {
+        "url":    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/tabela/",
+        "output": "docs/cache_tabela_B.json",
+        "label":  "Série B",
+    },
+]
+
 HTTP_TIMEOUT = 25
 
 
@@ -58,7 +70,7 @@ class TableParser(HTMLParser):
         self._current_cell: dict = {}
         self._current_text = ""
         self._depth_table = 0
-        self.rows: list[dict] = []   # {"class": str, "cells": [{"title": str, "text": str}]}
+        self.rows: list[dict] = []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -217,16 +229,16 @@ def parse_standings(html: str) -> list:
                 "nome_popular": nome,
                 "sigla":        SIGLAS.get(nome),
             },
-            "jogos":              jogos,
-            "vitorias":           vits,
-            "empates":            emps,
-            "derrotas":           derr,
-            "gols_pro":           gp,
-            "gols_contra":        gc,
-            "saldo_gols":         sg,
-            "aproveitamento":     apr,
-            "variacao_posicao":   parse_movement(move_text),
-            "ultimos_jogos":      [],
+            "jogos":               jogos,
+            "vitorias":            vits,
+            "empates":             emps,
+            "derrotas":            derr,
+            "gols_pro":            gp,
+            "gols_contra":         gc,
+            "saldo_gols":          sg,
+            "aproveitamento":      apr,
+            "variacao_posicao":    parse_movement(move_text),
+            "ultimos_jogos":       [],
             "faixa_classificacao": faixa(row["class"]),
         })
 
@@ -238,31 +250,43 @@ def parse_standings(html: str) -> list:
 # ---------------------------------------------------------------------------
 
 def main():
-    print(f"Baixando tabela de {URL_TERRA} ...")
-    try:
-        html = fetch_url(URL_TERRA)
-    except Exception as e:
-        print(f"ERRO ao baixar HTML: {e}", file=sys.stderr)
-        sys.exit(1)
+    had_error = False
 
-    print("Parseando tabela ...")
-    try:
-        dados = parse_standings(html)
-    except Exception as e:
-        print(f"ERRO ao parsear: {e}", file=sys.stderr)
-        sys.exit(1)
+    for source in SOURCES:
+        url    = source["url"]
+        output = source["output"]
+        label  = source["label"]
 
-    if not dados:
-        print("ERRO: nenhum time encontrado no HTML.", file=sys.stderr)
-        sys.exit(1)
+        print(f"Baixando {label} de {url} ...")
+        try:
+            html = fetch_url(url)
+        except Exception as e:
+            print(f"ERRO ao baixar {label}: {e}", file=sys.stderr)
+            had_error = True
+            continue
 
-    payload = {"timestamp": int(time.time()), "dados": dados}
-    json_str = json.dumps(payload, ensure_ascii=False, indent=2)
+        print(f"Parseando {label} ...")
+        try:
+            dados = parse_standings(html)
+        except Exception as e:
+            print(f"ERRO ao parsear {label}: {e}", file=sys.stderr)
+            had_error = True
+            continue
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(json_str)
+        if not dados:
+            print(f"ERRO: nenhum time encontrado para {label}.", file=sys.stderr)
+            had_error = True
+            continue
 
-    print(f"OK: {len(dados)} times salvos em {OUTPUT_FILE}")
+        payload = {"timestamp": int(time.time()), "dados": dados}
+        json_str = json.dumps(payload, ensure_ascii=False, indent=2)
+
+        with open(output, "w", encoding="utf-8") as f:
+            f.write(json_str)
+
+        print(f"OK: {label} — {len(dados)} times salvos em {output}")
+
+    sys.exit(1 if had_error else 0)
 
 
 if __name__ == "__main__":
