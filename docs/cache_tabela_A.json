@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776030858,
+  "timestamp": 1776032371,
   "dados": [
     {
       "posicao": 1,
@@ -31,9 +31,9 @@
       "vitorias": 6,
       "empates": 2,
       "derrotas": 2,
-      "gols_pro": 17,
+      "gols_pro": 18,
       "gols_contra": 9,
-      "saldo_gols": 8,
+      "saldo_gols": 9,
       "aproveitamento": 66,
       "variacao_posicao": 2,
       "ultimos_jogos": [],
@@ -62,25 +62,6 @@
       "posicao": 4,
       "pontos": 20,
       "time": {
-        "nome_popular": "Fluminense",
-        "sigla": "FLU"
-      },
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 17,
-      "gols_contra": 12,
-      "saldo_gols": 5,
-      "aproveitamento": 60,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
-      "pontos": 20,
-      "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
@@ -92,7 +73,26 @@
       "gols_contra": 10,
       "saldo_gols": 5,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Fluminense",
+        "sigla": "FLU"
+      },
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 3,
+      "gols_pro": 17,
+      "gols_contra": 13,
+      "saldo_gols": 4,
+      "aproveitamento": 60,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
