@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/cache_tabela_A.json
+          git add docs/
           git diff --cached --quiet || git commit -m "tabela: atualização automática $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
