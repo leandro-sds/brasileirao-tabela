@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776025981,
+  "timestamp": 1776028897,
   "dados": [
     {
       "posicao": 1,
@@ -24,18 +24,18 @@
       "posicao": 2,
       "pontos": 20,
       "time": {
-        "nome_popular": "Fluminense",
-        "sigla": "FLU"
+        "nome_popular": "Flamengo",
+        "sigla": "FLA"
       },
       "jogos": 10,
       "vitorias": 6,
       "empates": 2,
       "derrotas": 2,
       "gols_pro": 17,
-      "gols_contra": 11,
-      "saldo_gols": 6,
+      "gols_contra": 9,
+      "saldo_gols": 8,
       "aproveitamento": 66,
-      "variacao_posicao": 1,
+      "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -62,6 +62,25 @@
       "posicao": 4,
       "pontos": 20,
       "time": {
+        "nome_popular": "Fluminense",
+        "sigla": "FLU"
+      },
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 3,
+      "gols_pro": 17,
+      "gols_contra": 12,
+      "saldo_gols": 5,
+      "aproveitamento": 60,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 20,
+      "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
@@ -73,12 +92,12 @@
       "gols_contra": 10,
       "saldo_gols": 5,
       "aproveitamento": 66,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 5,
+      "posicao": 6,
       "pontos": 19,
       "time": {
         "nome_popular": "Athletico-PR",
@@ -92,26 +111,7 @@
       "gols_contra": 13,
       "saldo_gols": 4,
       "aproveitamento": 57,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 6,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Flamengo",
-        "sigla": "FLA"
-      },
-      "jogos": 9,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 2,
-      "gols_pro": 16,
-      "gols_contra": 9,
-      "saldo_gols": 7,
-      "aproveitamento": 62,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -126,8 +126,8 @@
       "vitorias": 4,
       "empates": 4,
       "derrotas": 3,
-      "gols_pro": 12,
-      "gols_contra": 11,
+      "gols_pro": 13,
+      "gols_contra": 12,
       "saldo_gols": 1,
       "aproveitamento": 48,
       "variacao_posicao": 0,
@@ -202,8 +202,8 @@
       "vitorias": 4,
       "empates": 1,
       "derrotas": 5,
-      "gols_pro": 17,
-      "gols_contra": 20,
+      "gols_pro": 18,
+      "gols_contra": 21,
       "saldo_gols": -3,
       "aproveitamento": 43,
       "variacao_posicao": -1,
