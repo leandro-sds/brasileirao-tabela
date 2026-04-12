@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776004233,
+  "timestamp": 1776007479,
   "dados": [
     {
       "posicao": 1,
@@ -79,6 +79,25 @@
     },
     {
       "posicao": 5,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Athletico-PR",
+        "sigla": "CAP"
+      },
+      "jogos": 11,
+      "vitorias": 6,
+      "empates": 1,
+      "derrotas": 4,
+      "gols_pro": 16,
+      "gols_contra": 13,
+      "saldo_gols": 3,
+      "aproveitamento": 57,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 6,
       "pontos": 17,
       "time": {
         "nome_popular": "Flamengo",
@@ -92,26 +111,7 @@
       "gols_contra": 9,
       "saldo_gols": 7,
       "aproveitamento": 62,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 6,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Athletico-PR",
-        "sigla": "CAP"
-      },
-      "jogos": 11,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 4,
-      "gols_pro": 15,
-      "gols_contra": 13,
-      "saldo_gols": 2,
-      "aproveitamento": 51,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -307,25 +307,6 @@
     },
     {
       "posicao": 17,
-      "pontos": 9,
-      "time": {
-        "nome_popular": "Chapecoense",
-        "sigla": "CHA"
-      },
-      "jogos": 10,
-      "vitorias": 1,
-      "empates": 6,
-      "derrotas": 3,
-      "gols_pro": 10,
-      "gols_contra": 16,
-      "saldo_gols": -6,
-      "aproveitamento": 30,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 18,
       "pontos": 8,
       "time": {
         "nome_popular": "Remo",
@@ -339,7 +320,26 @@
       "gols_contra": 18,
       "saldo_gols": -7,
       "aproveitamento": 24,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 18,
+      "pontos": 8,
+      "time": {
+        "nome_popular": "Chapecoense",
+        "sigla": "CHA"
+      },
+      "jogos": 10,
+      "vitorias": 1,
+      "empates": 5,
+      "derrotas": 4,
+      "gols_pro": 10,
+      "gols_contra": 17,
+      "saldo_gols": -7,
+      "aproveitamento": 26,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
