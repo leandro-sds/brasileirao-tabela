@@ -1,8 +1,27 @@
 {
-  "timestamp": 1776547869,
+  "timestamp": 1776550788,
   "dados": [
     {
       "posicao": 1,
+      "pontos": 11,
+      "time": {
+        "nome_popular": "Vila Nova",
+        "sigla": null
+      },
+      "jogos": 5,
+      "vitorias": 3,
+      "empates": 2,
+      "derrotas": 0,
+      "gols_pro": 7,
+      "gols_contra": 4,
+      "saldo_gols": 3,
+      "aproveitamento": 73,
+      "variacao_posicao": 3,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 2,
       "pontos": 8,
       "time": {
         "nome_popular": "Ceará",
@@ -16,12 +35,12 @@
       "gols_contra": 2,
       "saldo_gols": 3,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 2,
+      "posicao": 3,
       "pontos": 8,
       "time": {
         "nome_popular": "Avaí",
@@ -35,12 +54,12 @@
       "gols_contra": 2,
       "saldo_gols": 3,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 3,
+      "posicao": 4,
       "pontos": 8,
       "time": {
         "nome_popular": "Athletic Club",
@@ -54,26 +73,7 @@
       "gols_contra": 5,
       "saldo_gols": 2,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 4,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Vila Nova",
-        "sigla": null
-      },
-      "jogos": 4,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 0,
-      "gols_pro": 6,
-      "gols_contra": 4,
-      "saldo_gols": 2,
-      "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -84,14 +84,14 @@
         "nome_popular": "Operário PR",
         "sigla": null
       },
-      "jogos": 4,
+      "jogos": 5,
       "vitorias": 2,
       "empates": 2,
-      "derrotas": 0,
+      "derrotas": 1,
       "gols_pro": 3,
-      "gols_contra": 1,
-      "saldo_gols": 2,
-      "aproveitamento": 66,
+      "gols_contra": 2,
+      "saldo_gols": 1,
+      "aproveitamento": 53,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
