@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776555189,
+  "timestamp": 1776561260,
   "dados": [
     {
       "posicao": 1,
@@ -233,25 +233,6 @@
       "posicao": 13,
       "pontos": 13,
       "time": {
-        "nome_popular": "Grêmio",
-        "sigla": "GRE"
-      },
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 14,
-      "gols_contra": 14,
-      "saldo_gols": 0,
-      "aproveitamento": 39,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 14,
-      "pontos": 13,
-      "time": {
         "nome_popular": "Internacional",
         "sigla": "INT"
       },
@@ -263,12 +244,12 @@
       "gols_contra": 10,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
-      "faixa_classificacao": null
+      "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 15,
+      "posicao": 14,
       "pontos": 13,
       "time": {
         "nome_popular": "Santos",
@@ -282,12 +263,50 @@
       "gols_contra": 16,
       "saldo_gols": -2,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 15,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Grêmio",
+        "sigla": "GRE"
+      },
+      "jogos": 12,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 14,
+      "gols_contra": 16,
+      "saldo_gols": -2,
+      "aproveitamento": 36,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 16,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 12,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 16,
+      "gols_contra": 21,
+      "saldo_gols": -5,
+      "aproveitamento": 36,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 17,
       "pontos": 12,
       "time": {
         "nome_popular": "Corinthians",
@@ -301,26 +320,7 @@
       "gols_contra": 11,
       "saldo_gols": -3,
       "aproveitamento": 33,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 17,
-      "pontos": 10,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 11,
-      "vitorias": 2,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 14,
-      "gols_contra": 21,
-      "saldo_gols": -7,
-      "aproveitamento": 30,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
