@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776623799,
+  "timestamp": 1776627136,
   "dados": [
     {
       "posicao": 1,
@@ -43,25 +43,6 @@
       "posicao": 3,
       "pontos": 20,
       "time": {
-        "nome_popular": "Fluminense",
-        "sigla": "FLU"
-      },
-      "jogos": 11,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 18,
-      "gols_contra": 13,
-      "saldo_gols": 5,
-      "aproveitamento": 60,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 4,
-      "pontos": 20,
-      "time": {
         "nome_popular": "São Paulo",
         "sigla": "SAO"
       },
@@ -73,12 +54,12 @@
       "gols_contra": 11,
       "saldo_gols": 5,
       "aproveitamento": 55,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 5,
+      "posicao": 4,
       "pontos": 20,
       "time": {
         "nome_popular": "Bahia",
@@ -92,7 +73,26 @@
       "gols_contra": 10,
       "saldo_gols": 5,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Fluminense",
+        "sigla": "FLU"
+      },
+      "jogos": 12,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 4,
+      "gols_pro": 18,
+      "gols_contra": 14,
+      "saldo_gols": 4,
+      "aproveitamento": 55,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -117,6 +117,25 @@
     },
     {
       "posicao": 7,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Coritiba",
+        "sigla": "CFC"
+      },
+      "jogos": 12,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 3,
+      "gols_pro": 14,
+      "gols_contra": 12,
+      "saldo_gols": 2,
+      "aproveitamento": 52,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
       "pontos": 16,
       "time": {
         "nome_popular": "Botafogo",
@@ -130,26 +149,7 @@
       "gols_contra": 22,
       "saldo_gols": 0,
       "aproveitamento": 48,
-      "variacao_posicao": 4,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
-      "pontos": 16,
-      "time": {
-        "nome_popular": "Coritiba",
-        "sigla": "CFC"
-      },
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 3,
-      "gols_pro": 13,
-      "gols_contra": 12,
-      "saldo_gols": 1,
-      "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 3,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -174,6 +174,25 @@
     },
     {
       "posicao": 10,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Santos",
+        "sigla": "SAN"
+      },
+      "jogos": 12,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 15,
+      "gols_contra": 16,
+      "saldo_gols": -1,
+      "aproveitamento": 44,
+      "variacao_posicao": 5,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 11,
       "pontos": 15,
       "time": {
         "nome_popular": "Vitória",
@@ -187,31 +206,31 @@
       "gols_contra": 14,
       "saldo_gols": -3,
       "aproveitamento": 45,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 11,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
-      },
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 14,
-      "gols_contra": 13,
-      "saldo_gols": 1,
-      "aproveitamento": 42,
-      "variacao_posicao": -3,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
       "posicao": 12,
+      "pontos": 14,
+      "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 12,
+      "vitorias": 4,
+      "empates": 2,
+      "derrotas": 6,
+      "gols_pro": 14,
+      "gols_contra": 14,
+      "saldo_gols": 0,
+      "aproveitamento": 38,
+      "variacao_posicao": -4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 13,
       "pontos": 14,
       "time": {
         "nome_popular": "Bragantino",
@@ -225,26 +244,7 @@
       "gols_contra": 12,
       "saldo_gols": -1,
       "aproveitamento": 42,
-      "variacao_posicao": -3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Santos",
-        "sigla": "SAN"
-      },
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 14,
-      "gols_contra": 16,
-      "saldo_gols": -2,
-      "aproveitamento": 39,
-      "variacao_posicao": 2,
+      "variacao_posicao": -4,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
