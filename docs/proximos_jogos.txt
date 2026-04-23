@@ -1,16 +1,3 @@
-# Rodada 12 de 38
-
-Chapecoense x Botafogo | Sáb. 18/04 | 18:30
-Vasco da Gama x São Paulo | Sáb. 18/04 | 18:30
-EC Vitória x Corinthians | Sáb. 18/04 | 20:00
-Cruzeiro x Grêmio | Sáb. 18/04 | 20:30
-Internacional x Mirassol | Dom. 19/04 | 11:00
-Coritiba x Atlético-MG | Dom. 19/04 | 16:00
-Santos x Fluminense | Dom. 19/04 | 16:00
-Palmeiras x Athletico-PR | Dom. 19/04 | 18:30
-Bragantino x Remo | Dom. 19/04 | 18:30
-Flamengo x Bahia | Dom. 19/04 | 19:30
-
 # Rodada 13 de 38
 
 Botafogo x Internacional | Sáb. 25/04 | 18:30
