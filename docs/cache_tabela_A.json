@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777155908,
+  "timestamp": 1777158085,
   "dados": [
     {
       "posicao": 1,
@@ -89,8 +89,8 @@
       "empates": 2,
       "derrotas": 4,
       "gols_pro": 15,
-      "gols_contra": 13,
-      "saldo_gols": 2,
+      "gols_contra": 14,
+      "saldo_gols": 1,
       "aproveitamento": 55,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
@@ -119,6 +119,25 @@
       "posicao": 7,
       "pontos": 19,
       "time": {
+        "nome_popular": "Botafogo",
+        "sigla": "BOT"
+      },
+      "jogos": 12,
+      "vitorias": 6,
+      "empates": 1,
+      "derrotas": 5,
+      "gols_pro": 24,
+      "gols_contra": 23,
+      "saldo_gols": 1,
+      "aproveitamento": 52,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
+      "pontos": 19,
+      "time": {
         "nome_popular": "Coritiba",
         "sigla": "CFC"
       },
@@ -130,12 +149,12 @@
       "gols_contra": 12,
       "saldo_gols": 3,
       "aproveitamento": 52,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
+      "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 8,
+      "posicao": 9,
       "pontos": 17,
       "time": {
         "nome_popular": "Bragantino",
@@ -149,26 +168,7 @@
       "gols_contra": 14,
       "saldo_gols": 1,
       "aproveitamento": 47,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 9,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Botafogo",
-        "sigla": "BOT"
-      },
-      "jogos": 12,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 22,
-      "gols_contra": 22,
-      "saldo_gols": 0,
-      "aproveitamento": 47,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -202,9 +202,9 @@
       "vitorias": 4,
       "empates": 4,
       "derrotas": 5,
-      "gols_pro": 17,
+      "gols_pro": 18,
       "gols_contra": 19,
-      "saldo_gols": -2,
+      "saldo_gols": -1,
       "aproveitamento": 41,
       "variacao_posicao": 4,
       "ultimos_jogos": [],
@@ -269,25 +269,6 @@
     },
     {
       "posicao": 15,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Internacional",
-        "sigla": "INT"
-      },
-      "jogos": 13,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 10,
-      "gols_contra": 12,
-      "saldo_gols": -2,
-      "aproveitamento": 35,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
       "pontos": 13,
       "time": {
         "nome_popular": "Grêmio",
@@ -301,7 +282,26 @@
       "gols_contra": 16,
       "saldo_gols": -2,
       "aproveitamento": 36,
-      "variacao_posicao": -3,
+      "variacao_posicao": -2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Internacional",
+        "sigla": "INT"
+      },
+      "jogos": 13,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 6,
+      "gols_pro": 11,
+      "gols_contra": 14,
+      "saldo_gols": -3,
+      "aproveitamento": 33,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
