@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777154169,
+  "timestamp": 1777155908,
   "dados": [
     {
       "posicao": 1,
@@ -60,25 +60,6 @@
     },
     {
       "posicao": 4,
-      "pontos": 21,
-      "time": {
-        "nome_popular": "Bahia",
-        "sigla": "BAH"
-      },
-      "jogos": 12,
-      "vitorias": 6,
-      "empates": 3,
-      "derrotas": 3,
-      "gols_pro": 15,
-      "gols_contra": 12,
-      "saldo_gols": 3,
-      "aproveitamento": 58,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
       "pontos": 20,
       "time": {
         "nome_popular": "São Paulo",
@@ -92,7 +73,26 @@
       "gols_contra": 11,
       "saldo_gols": 5,
       "aproveitamento": 55,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Bahia",
+        "sigla": "BAH"
+      },
+      "jogos": 12,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 4,
+      "gols_pro": 15,
+      "gols_contra": 13,
+      "saldo_gols": 2,
+      "aproveitamento": 55,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -193,6 +193,44 @@
     },
     {
       "posicao": 11,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Santos",
+        "sigla": "SAN"
+      },
+      "jogos": 13,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 17,
+      "gols_contra": 19,
+      "saldo_gols": -2,
+      "aproveitamento": 41,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 13,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 17,
+      "gols_contra": 21,
+      "saldo_gols": -4,
+      "aproveitamento": 41,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 13,
       "pontos": 15,
       "time": {
         "nome_popular": "Vitória",
@@ -206,12 +244,12 @@
       "gols_contra": 14,
       "saldo_gols": -3,
       "aproveitamento": 45,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 14,
       "pontos": 14,
       "time": {
         "nome_popular": "Atlético-MG",
@@ -225,12 +263,12 @@
       "gols_contra": 15,
       "saldo_gols": -1,
       "aproveitamento": 38,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
+      "faixa_classificacao": null
     },
     {
-      "posicao": 13,
+      "posicao": 15,
       "pontos": 14,
       "time": {
         "nome_popular": "Internacional",
@@ -244,45 +282,7 @@
       "gols_contra": 12,
       "saldo_gols": -2,
       "aproveitamento": 35,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 14,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Santos",
-        "sigla": "SAN"
-      },
-      "jogos": 13,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 16,
-      "gols_contra": 19,
-      "saldo_gols": -3,
-      "aproveitamento": 35,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 15,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 13,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 16,
-      "gols_contra": 21,
-      "saldo_gols": -5,
-      "aproveitamento": 35,
-      "variacao_posicao": 1,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -345,19 +345,19 @@
     },
     {
       "posicao": 19,
-      "pontos": 9,
+      "pontos": 8,
       "time": {
         "nome_popular": "Remo",
         "sigla": "REM"
       },
       "jogos": 13,
       "vitorias": 1,
-      "empates": 6,
-      "derrotas": 6,
+      "empates": 5,
+      "derrotas": 7,
       "gols_pro": 13,
-      "gols_contra": 22,
-      "saldo_gols": -9,
-      "aproveitamento": 23,
+      "gols_contra": 23,
+      "saldo_gols": -10,
+      "aproveitamento": 20,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
