@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777244786,
+  "timestamp": 1777247969,
   "dados": [
     {
       "posicao": 1,
@@ -22,38 +22,38 @@
     },
     {
       "posicao": 2,
-      "pontos": 23,
+      "pontos": 26,
       "time": {
         "nome_popular": "Flamengo",
         "sigla": "FLA"
       },
-      "jogos": 11,
-      "vitorias": 7,
+      "jogos": 12,
+      "vitorias": 8,
       "empates": 2,
       "derrotas": 2,
-      "gols_pro": 20,
+      "gols_pro": 21,
       "gols_contra": 10,
-      "saldo_gols": 10,
-      "aproveitamento": 69,
+      "saldo_gols": 11,
+      "aproveitamento": 72,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
       "posicao": 3,
-      "pontos": 23,
+      "pontos": 24,
       "time": {
         "nome_popular": "Fluminense",
         "sigla": "FLU"
       },
-      "jogos": 12,
+      "jogos": 13,
       "vitorias": 7,
-      "empates": 2,
+      "empates": 3,
       "derrotas": 3,
       "gols_pro": 21,
       "gols_contra": 15,
       "saldo_gols": 6,
-      "aproveitamento": 63,
+      "aproveitamento": 61,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -79,6 +79,25 @@
     },
     {
       "posicao": 5,
+      "pontos": 22,
+      "time": {
+        "nome_popular": "Athletico-PR",
+        "sigla": "CAP"
+      },
+      "jogos": 13,
+      "vitorias": 7,
+      "empates": 1,
+      "derrotas": 5,
+      "gols_pro": 20,
+      "gols_contra": 15,
+      "saldo_gols": 5,
+      "aproveitamento": 56,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 6,
       "pontos": 21,
       "time": {
         "nome_popular": "Bahia",
@@ -92,26 +111,7 @@
       "gols_contra": 14,
       "saldo_gols": 3,
       "aproveitamento": 58,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 6,
-      "pontos": 20,
-      "time": {
-        "nome_popular": "Athletico-PR",
-        "sigla": "CAP"
-      },
-      "jogos": 13,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 18,
-      "gols_contra": 15,
-      "saldo_gols": 3,
-      "aproveitamento": 51,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -214,25 +214,6 @@
       "posicao": 12,
       "pontos": 16,
       "time": {
-        "nome_popular": "Vitória",
-        "sigla": "VIT"
-      },
-      "jogos": 12,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 12,
-      "gols_contra": 15,
-      "saldo_gols": -3,
-      "aproveitamento": 44,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
-      "pontos": 16,
-      "time": {
         "nome_popular": "Cruzeiro",
         "sigla": "CRU"
       },
@@ -244,7 +225,26 @@
       "gols_contra": 21,
       "saldo_gols": -4,
       "aproveitamento": 41,
-      "variacao_posicao": 3,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 13,
+      "pontos": 15,
+      "time": {
+        "nome_popular": "Vitória",
+        "sigla": "VIT"
+      },
+      "jogos": 12,
+      "vitorias": 4,
+      "empates": 3,
+      "derrotas": 5,
+      "gols_pro": 12,
+      "gols_contra": 17,
+      "saldo_gols": -5,
+      "aproveitamento": 41,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -274,14 +274,14 @@
         "nome_popular": "Atlético-MG",
         "sigla": "CAM"
       },
-      "jogos": 12,
+      "jogos": 13,
       "vitorias": 4,
       "empates": 2,
-      "derrotas": 6,
+      "derrotas": 7,
       "gols_pro": 14,
-      "gols_contra": 15,
-      "saldo_gols": -1,
-      "aproveitamento": 38,
+      "gols_contra": 16,
+      "saldo_gols": -2,
+      "aproveitamento": 35,
       "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -345,6 +345,25 @@
     },
     {
       "posicao": 19,
+      "pontos": 9,
+      "time": {
+        "nome_popular": "Chapecoense",
+        "sigla": "CHA"
+      },
+      "jogos": 12,
+      "vitorias": 1,
+      "empates": 6,
+      "derrotas": 5,
+      "gols_pro": 11,
+      "gols_contra": 22,
+      "saldo_gols": -11,
+      "aproveitamento": 25,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 20,
       "pontos": 8,
       "time": {
         "nome_popular": "Remo",
@@ -358,26 +377,7 @@
       "gols_contra": 23,
       "saldo_gols": -10,
       "aproveitamento": 20,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 20,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Chapecoense",
-        "sigla": "CHA"
-      },
-      "jogos": 11,
-      "vitorias": 1,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 11,
-      "gols_contra": 22,
-      "saldo_gols": -11,
-      "aproveitamento": 24,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     }
