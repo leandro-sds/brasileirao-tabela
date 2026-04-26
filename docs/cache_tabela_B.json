@@ -1,46 +1,27 @@
 {
-  "timestamp": 1777242604,
+  "timestamp": 1777244787,
   "dados": [
     {
       "posicao": 1,
       "pontos": 12,
-      "time": {
-        "nome_popular": "Ceará",
-        "sigla": null
-      },
-      "jogos": 6,
-      "vitorias": 3,
-      "empates": 3,
-      "derrotas": 0,
-      "gols_pro": 8,
-      "gols_contra": 4,
-      "saldo_gols": 4,
-      "aproveitamento": 66,
-      "variacao_posicao": 2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 2,
-      "pontos": 11,
       "time": {
         "nome_popular": "Vila Nova",
         "sigla": null
       },
       "jogos": 6,
       "vitorias": 3,
-      "empates": 2,
-      "derrotas": 1,
-      "gols_pro": 10,
+      "empates": 3,
+      "derrotas": 0,
+      "gols_pro": 11,
       "gols_contra": 8,
-      "saldo_gols": 2,
-      "aproveitamento": 61,
-      "variacao_posicao": -1,
+      "saldo_gols": 3,
+      "aproveitamento": 66,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 3,
+      "posicao": 2,
       "pontos": 11,
       "time": {
         "nome_popular": "Fortaleza",
@@ -54,12 +35,12 @@
       "gols_contra": 7,
       "saldo_gols": -1,
       "aproveitamento": 61,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 4,
+      "posicao": 3,
       "pontos": 10,
       "time": {
         "nome_popular": "São Bernardo",
@@ -73,12 +54,12 @@
       "gols_contra": 5,
       "saldo_gols": 3,
       "aproveitamento": 55,
-      "variacao_posicao": 5,
+      "variacao_posicao": 6,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 5,
+      "posicao": 4,
       "pontos": 10,
       "time": {
         "nome_popular": "Juventude",
@@ -92,7 +73,26 @@
       "gols_contra": 4,
       "saldo_gols": 1,
       "aproveitamento": 55,
-      "variacao_posicao": 6,
+      "variacao_posicao": 7,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 10,
+      "time": {
+        "nome_popular": "Ceará",
+        "sigla": null
+      },
+      "jogos": 6,
+      "vitorias": 2,
+      "empates": 4,
+      "derrotas": 0,
+      "gols_pro": 8,
+      "gols_contra": 5,
+      "saldo_gols": 3,
+      "aproveitamento": 55,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
