@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777226479,
+  "timestamp": 1777230967,
   "dados": [
     {
       "posicao": 1,
@@ -98,6 +98,25 @@
     },
     {
       "posicao": 6,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Coritiba",
+        "sigla": "CFC"
+      },
+      "jogos": 13,
+      "vitorias": 5,
+      "empates": 5,
+      "derrotas": 3,
+      "gols_pro": 15,
+      "gols_contra": 12,
+      "saldo_gols": 3,
+      "aproveitamento": 51,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 7,
       "pontos": 19,
       "time": {
         "nome_popular": "Athletico-PR",
@@ -111,26 +130,7 @@
       "gols_contra": 14,
       "saldo_gols": 3,
       "aproveitamento": 52,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 7,
-      "pontos": 19,
-      "time": {
-        "nome_popular": "Coritiba",
-        "sigla": "CFC"
-      },
-      "jogos": 12,
-      "vitorias": 5,
-      "empates": 4,
-      "derrotas": 3,
-      "gols_pro": 15,
-      "gols_contra": 12,
-      "saldo_gols": 3,
-      "aproveitamento": 52,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -174,19 +174,19 @@
     },
     {
       "posicao": 10,
-      "pontos": 16,
+      "pontos": 17,
       "time": {
         "nome_popular": "Vasco da Gama",
         "sigla": "VAS"
       },
-      "jogos": 12,
+      "jogos": 13,
       "vitorias": 4,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 4,
       "gols_pro": 18,
       "gols_contra": 18,
       "saldo_gols": 0,
-      "aproveitamento": 44,
+      "aproveitamento": 43,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
@@ -252,6 +252,25 @@
       "posicao": 14,
       "pontos": 14,
       "time": {
+        "nome_popular": "Grêmio",
+        "sigla": "GRE"
+      },
+      "jogos": 13,
+      "vitorias": 3,
+      "empates": 5,
+      "derrotas": 5,
+      "gols_pro": 14,
+      "gols_contra": 16,
+      "saldo_gols": -2,
+      "aproveitamento": 35,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 15,
+      "pontos": 14,
+      "time": {
         "nome_popular": "Internacional",
         "sigla": "INT"
       },
@@ -263,12 +282,12 @@
       "gols_contra": 14,
       "saldo_gols": -2,
       "aproveitamento": 35,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 15,
+      "posicao": 16,
       "pontos": 14,
       "time": {
         "nome_popular": "Santos",
@@ -282,39 +301,20 @@
       "gols_contra": 21,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Grêmio",
-        "sigla": "GRE"
-      },
-      "jogos": 12,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 14,
-      "gols_contra": 16,
-      "saldo_gols": -2,
-      "aproveitamento": 36,
-      "variacao_posicao": -3,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 17,
-      "pontos": 12,
+      "pontos": 13,
       "time": {
         "nome_popular": "Corinthians",
         "sigla": "COR"
       },
-      "jogos": 12,
+      "jogos": 13,
       "vitorias": 2,
-      "empates": 6,
+      "empates": 7,
       "derrotas": 4,
       "gols_pro": 8,
       "gols_contra": 11,
