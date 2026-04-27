@@ -1,16 +1,3 @@
-# Rodada 13 de 38
-
-Botafogo x Internacional | Sáb. 25/04 | 18:30
-Remo x Cruzeiro | Sáb. 25/04 | 18:30
-Bahia x Santos | Sáb. 25/04 | 18:30
-São Paulo x Mirassol | Sáb. 25/04 | 21:00
-Grêmio x Coritiba | Dom. 26/04 | 16:00
-Corinthians x Vasco da Gama | Dom. 26/04 | 16:00
-Bragantino x Palmeiras | Dom. 26/04 | 18:30
-Athletico-PR x EC Vitória | Dom. 26/04 | 18:30
-Atlético-MG x Flamengo | Dom. 26/04 | 20:30
-Fluminense x Chapecoense | Dom. 26/04 | 20:30
-
 # Rodada 14 de 38
 
 EC Vitória x Coritiba | Sáb. 02/05 | 16:00
