@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777753654,
+  "timestamp": 1777755930,
   "dados": [
     {
       "posicao": 1,
@@ -117,25 +117,6 @@
     },
     {
       "posicao": 7,
-      "pontos": 20,
-      "time": {
-        "nome_popular": "Botafogo",
-        "sigla": "BOT"
-      },
-      "jogos": 13,
-      "vitorias": 6,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 25,
-      "gols_contra": 24,
-      "saldo_gols": 1,
-      "aproveitamento": 51,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
       "pontos": 19,
       "time": {
         "nome_popular": "Coritiba",
@@ -149,12 +130,12 @@
       "gols_contra": 13,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
+      "faixa_classificacao": "pre-libertadores"
     },
     {
-      "posicao": 9,
+      "posicao": 8,
       "pontos": 17,
       "time": {
         "nome_popular": "Bragantino",
@@ -168,7 +149,26 @@
       "gols_contra": 15,
       "saldo_gols": 0,
       "aproveitamento": 43,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
+      "pontos": 17,
+      "time": {
+        "nome_popular": "Botafogo",
+        "sigla": "BOT"
+      },
+      "jogos": 13,
+      "vitorias": 5,
+      "empates": 2,
+      "derrotas": 6,
+      "gols_pro": 25,
+      "gols_contra": 26,
+      "saldo_gols": -1,
+      "aproveitamento": 43,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -326,6 +326,25 @@
     },
     {
       "posicao": 18,
+      "pontos": 11,
+      "time": {
+        "nome_popular": "Remo",
+        "sigla": "REM"
+      },
+      "jogos": 14,
+      "vitorias": 2,
+      "empates": 5,
+      "derrotas": 7,
+      "gols_pro": 15,
+      "gols_contra": 24,
+      "saldo_gols": -9,
+      "aproveitamento": 26,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 19,
       "pontos": 9,
       "time": {
         "nome_popular": "Mirassol",
@@ -339,26 +358,7 @@
       "gols_contra": 18,
       "saldo_gols": -5,
       "aproveitamento": 25,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 19,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Remo",
-        "sigla": "REM"
-      },
-      "jogos": 14,
-      "vitorias": 1,
-      "empates": 5,
-      "derrotas": 8,
-      "gols_pro": 13,
-      "gols_contra": 24,
-      "saldo_gols": -11,
-      "aproveitamento": 19,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
