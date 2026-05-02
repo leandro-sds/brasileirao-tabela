@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777745125,
+  "timestamp": 1777750256,
   "dados": [
     {
       "posicao": 1,
@@ -92,7 +92,7 @@
       "gols_contra": 15,
       "saldo_gols": 5,
       "aproveitamento": 56,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -111,12 +111,31 @@
       "gols_contra": 14,
       "saldo_gols": 3,
       "aproveitamento": 58,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
     {
       "posicao": 7,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Botafogo",
+        "sigla": "BOT"
+      },
+      "jogos": 13,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 5,
+      "gols_pro": 25,
+      "gols_contra": 24,
+      "saldo_gols": 1,
+      "aproveitamento": 51,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
       "pontos": 19,
       "time": {
         "nome_popular": "Coritiba",
@@ -130,26 +149,7 @@
       "gols_contra": 13,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Botafogo",
-        "sigla": "BOT"
-      },
-      "jogos": 12,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 24,
-      "gols_contra": 24,
-      "saldo_gols": 0,
-      "aproveitamento": 47,
-      "variacao_posicao": 1,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -168,7 +168,7 @@
       "gols_contra": 15,
       "saldo_gols": 0,
       "aproveitamento": 43,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -206,7 +206,7 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 41,
-      "variacao_posicao": 2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -225,7 +225,7 @@
       "gols_contra": 21,
       "saldo_gols": -4,
       "aproveitamento": 41,
-      "variacao_posicao": 4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -244,7 +244,7 @@
       "gols_contra": 17,
       "saldo_gols": -5,
       "aproveitamento": 41,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -263,7 +263,7 @@
       "gols_contra": 11,
       "saldo_gols": -2,
       "aproveitamento": 38,
-      "variacao_posicao": 3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -282,7 +282,7 @@
       "gols_contra": 19,
       "saldo_gols": -5,
       "aproveitamento": 35,
-      "variacao_posicao": -3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -301,7 +301,7 @@
       "gols_contra": 14,
       "saldo_gols": -2,
       "aproveitamento": 35,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -320,7 +320,7 @@
       "gols_contra": 21,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
@@ -350,14 +350,14 @@
         "nome_popular": "Remo",
         "sigla": "REM"
       },
-      "jogos": 13,
+      "jogos": 14,
       "vitorias": 1,
       "empates": 5,
-      "derrotas": 7,
+      "derrotas": 8,
       "gols_pro": 13,
-      "gols_contra": 23,
-      "saldo_gols": -10,
-      "aproveitamento": 20,
+      "gols_contra": 24,
+      "saldo_gols": -11,
+      "aproveitamento": 19,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
