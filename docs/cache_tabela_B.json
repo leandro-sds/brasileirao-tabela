@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777831622,
+  "timestamp": 1777836642,
   "dados": [
     {
       "posicao": 1,
@@ -22,6 +22,25 @@
     },
     {
       "posicao": 2,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "São Bernardo",
+        "sigla": null
+      },
+      "jogos": 7,
+      "vitorias": 4,
+      "empates": 1,
+      "derrotas": 2,
+      "gols_pro": 9,
+      "gols_contra": 5,
+      "saldo_gols": 4,
+      "aproveitamento": 61,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 3,
       "pontos": 12,
       "time": {
         "nome_popular": "Vila Nova",
@@ -35,12 +54,31 @@
       "gols_contra": 8,
       "saldo_gols": 3,
       "aproveitamento": 66,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 3,
+      "posicao": 4,
+      "pontos": 12,
+      "time": {
+        "nome_popular": "Operário PR",
+        "sigla": null
+      },
+      "jogos": 7,
+      "vitorias": 3,
+      "empates": 3,
+      "derrotas": 1,
+      "gols_pro": 5,
+      "gols_contra": 3,
+      "saldo_gols": 2,
+      "aproveitamento": 57,
+      "variacao_posicao": 5,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
       "pontos": 11,
       "time": {
         "nome_popular": "Criciúma",
@@ -54,31 +92,12 @@
       "gols_contra": 7,
       "saldo_gols": 2,
       "aproveitamento": 52,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 4,
-      "pontos": 10,
-      "time": {
-        "nome_popular": "São Bernardo",
-        "sigla": null
-      },
-      "jogos": 6,
-      "vitorias": 3,
-      "empates": 1,
-      "derrotas": 2,
-      "gols_pro": 8,
-      "gols_contra": 5,
-      "saldo_gols": 3,
-      "aproveitamento": 55,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
+      "faixa_classificacao": null
     },
     {
-      "posicao": 5,
+      "posicao": 6,
       "pontos": 10,
       "time": {
         "nome_popular": "Juventude",
@@ -92,12 +111,12 @@
       "gols_contra": 4,
       "saldo_gols": 1,
       "aproveitamento": 55,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 6,
+      "posicao": 7,
       "pontos": 10,
       "time": {
         "nome_popular": "Náutico",
@@ -111,12 +130,12 @@
       "gols_contra": 7,
       "saldo_gols": -2,
       "aproveitamento": 47,
-      "variacao_posicao": 2,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 7,
+      "posicao": 8,
       "pontos": 10,
       "time": {
         "nome_popular": "Ceará",
@@ -130,12 +149,12 @@
       "gols_contra": 5,
       "saldo_gols": 3,
       "aproveitamento": 55,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 8,
+      "posicao": 9,
       "pontos": 10,
       "time": {
         "nome_popular": "Sport",
@@ -149,12 +168,12 @@
       "gols_contra": 4,
       "saldo_gols": 2,
       "aproveitamento": 55,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "pontos": 9,
       "time": {
         "nome_popular": "Botafogo-SP",
@@ -168,26 +187,7 @@
       "gols_contra": 7,
       "saldo_gols": 3,
       "aproveitamento": 42,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 10,
-      "pontos": 9,
-      "time": {
-        "nome_popular": "Operário PR",
-        "sigla": null
-      },
-      "jogos": 6,
-      "vitorias": 2,
-      "empates": 3,
-      "derrotas": 1,
-      "gols_pro": 4,
-      "gols_contra": 3,
-      "saldo_gols": 1,
-      "aproveitamento": 50,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -293,14 +293,14 @@
         "nome_popular": "Ponte Preta",
         "sigla": null
       },
-      "jogos": 6,
+      "jogos": 7,
       "vitorias": 2,
       "empates": 1,
-      "derrotas": 3,
+      "derrotas": 4,
       "gols_pro": 5,
-      "gols_contra": 6,
-      "saldo_gols": -1,
-      "aproveitamento": 38,
+      "gols_contra": 7,
+      "saldo_gols": -2,
+      "aproveitamento": 33,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -331,14 +331,14 @@
         "nome_popular": "Londrina",
         "sigla": null
       },
-      "jogos": 6,
+      "jogos": 7,
       "vitorias": 1,
       "empates": 2,
-      "derrotas": 3,
+      "derrotas": 4,
       "gols_pro": 7,
-      "gols_contra": 8,
-      "saldo_gols": -1,
-      "aproveitamento": 27,
+      "gols_contra": 9,
+      "saldo_gols": -2,
+      "aproveitamento": 23,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
