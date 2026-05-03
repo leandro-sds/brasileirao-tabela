@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777840100,
+  "timestamp": 1777842508,
   "dados": [
     {
       "posicao": 1,
@@ -22,19 +22,19 @@
     },
     {
       "posicao": 2,
-      "pontos": 29,
+      "pontos": 27,
       "time": {
         "nome_popular": "Flamengo",
         "sigla": "FLA"
       },
       "jogos": 13,
-      "vitorias": 9,
-      "empates": 2,
+      "vitorias": 8,
+      "empates": 3,
       "derrotas": 2,
       "gols_pro": 26,
-      "gols_contra": 10,
-      "saldo_gols": 16,
-      "aproveitamento": 74,
+      "gols_contra": 12,
+      "saldo_gols": 14,
+      "aproveitamento": 69,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -69,8 +69,8 @@
       "vitorias": 7,
       "empates": 3,
       "derrotas": 4,
-      "gols_pro": 18,
-      "gols_contra": 12,
+      "gols_pro": 19,
+      "gols_contra": 13,
       "saldo_gols": 6,
       "aproveitamento": 57,
       "variacao_posicao": 0,
@@ -107,8 +107,8 @@
       "vitorias": 6,
       "empates": 4,
       "derrotas": 3,
-      "gols_pro": 18,
-      "gols_contra": 15,
+      "gols_pro": 19,
+      "gols_contra": 16,
       "saldo_gols": 3,
       "aproveitamento": 56,
       "variacao_posicao": 0,
@@ -214,6 +214,25 @@
       "posicao": 12,
       "pontos": 17,
       "time": {
+        "nome_popular": "Vasco da Gama",
+        "sigla": "VAS"
+      },
+      "jogos": 14,
+      "vitorias": 4,
+      "empates": 5,
+      "derrotas": 5,
+      "gols_pro": 20,
+      "gols_contra": 21,
+      "saldo_gols": -1,
+      "aproveitamento": 40,
+      "variacao_posicao": -2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 13,
+      "pontos": 17,
+      "time": {
         "nome_popular": "Grêmio",
         "sigla": "GRE"
       },
@@ -225,26 +244,7 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
-      "pontos": 16,
-      "time": {
-        "nome_popular": "Vasco da Gama",
-        "sigla": "VAS"
-      },
-      "jogos": 14,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 6,
-      "gols_pro": 18,
-      "gols_contra": 21,
-      "saldo_gols": -3,
-      "aproveitamento": 38,
-      "variacao_posicao": -3,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
