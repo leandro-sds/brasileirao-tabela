@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777763154,
+  "timestamp": 1777766614,
   "dados": [
     {
       "posicao": 1,
@@ -79,19 +79,19 @@
     },
     {
       "posicao": 5,
-      "pontos": 22,
+      "pontos": 23,
       "time": {
         "nome_popular": "Athletico-PR",
         "sigla": "CAP"
       },
-      "jogos": 13,
+      "jogos": 14,
       "vitorias": 7,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 5,
       "gols_pro": 20,
       "gols_contra": 15,
       "saldo_gols": 5,
-      "aproveitamento": 56,
+      "aproveitamento": 54,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -193,6 +193,25 @@
     },
     {
       "posicao": 11,
+      "pontos": 17,
+      "time": {
+        "nome_popular": "Grêmio",
+        "sigla": "GRE"
+      },
+      "jogos": 14,
+      "vitorias": 4,
+      "empates": 5,
+      "derrotas": 5,
+      "gols_pro": 15,
+      "gols_contra": 16,
+      "saldo_gols": -1,
+      "aproveitamento": 40,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
       "pontos": 16,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -206,26 +225,7 @@
       "gols_contra": 19,
       "saldo_gols": -1,
       "aproveitamento": 41,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 12,
-      "pontos": 16,
-      "time": {
-        "nome_popular": "Grêmio",
-        "sigla": "GRE"
-      },
-      "jogos": 13,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 15,
-      "gols_contra": 16,
-      "saldo_gols": -1,
-      "aproveitamento": 41,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
