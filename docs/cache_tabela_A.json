@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777766614,
+  "timestamp": 1777781680,
   "dados": [
     {
       "posicao": 1,
@@ -195,6 +195,25 @@
       "posicao": 11,
       "pontos": 17,
       "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 14,
+      "vitorias": 5,
+      "empates": 2,
+      "derrotas": 7,
+      "gols_pro": 17,
+      "gols_contra": 20,
+      "saldo_gols": -3,
+      "aproveitamento": 40,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 17,
+      "time": {
         "nome_popular": "Grêmio",
         "sigla": "GRE"
       },
@@ -206,12 +225,12 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 13,
       "pontos": 16,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -225,31 +244,31 @@
       "gols_contra": 19,
       "saldo_gols": -1,
       "aproveitamento": 41,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
-      "pontos": 16,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 13,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 17,
-      "gols_contra": 21,
-      "saldo_gols": -4,
-      "aproveitamento": 41,
-      "variacao_posicao": -1,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
       "posicao": 14,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 14,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 6,
+      "gols_pro": 18,
+      "gols_contra": 24,
+      "saldo_gols": -6,
+      "aproveitamento": 38,
+      "variacao_posicao": -2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 15,
       "pontos": 15,
       "time": {
         "nome_popular": "Corinthians",
@@ -263,12 +282,12 @@
       "gols_contra": 11,
       "saldo_gols": -2,
       "aproveitamento": 38,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 15,
+      "posicao": 16,
       "pontos": 15,
       "time": {
         "nome_popular": "Santos",
@@ -282,26 +301,7 @@
       "gols_contra": 22,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": 2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
-      },
-      "jogos": 13,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 7,
-      "gols_pro": 14,
-      "gols_contra": 19,
-      "saldo_gols": -5,
-      "aproveitamento": 35,
-      "variacao_posicao": -1,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
