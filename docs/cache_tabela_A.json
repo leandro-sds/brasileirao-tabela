@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777853232,
+  "timestamp": 1777868009,
   "dados": [
     {
       "posicao": 1,
@@ -316,8 +316,8 @@
       "vitorias": 3,
       "empates": 6,
       "derrotas": 5,
-      "gols_pro": 9,
-      "gols_contra": 12,
+      "gols_pro": 10,
+      "gols_contra": 13,
       "saldo_gols": -3,
       "aproveitamento": 35,
       "variacao_posicao": -3,
@@ -335,8 +335,8 @@
       "vitorias": 3,
       "empates": 3,
       "derrotas": 7,
-      "gols_pro": 14,
-      "gols_contra": 18,
+      "gols_pro": 15,
+      "gols_contra": 19,
       "saldo_gols": -4,
       "aproveitamento": 30,
       "variacao_posicao": 0,
