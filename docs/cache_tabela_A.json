@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777849640,
+  "timestamp": 1777853232,
   "dados": [
     {
       "posicao": 1,
@@ -117,6 +117,25 @@
     },
     {
       "posicao": 7,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Bragantino",
+        "sigla": "BGT"
+      },
+      "jogos": 14,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 6,
+      "gols_pro": 17,
+      "gols_contra": 16,
+      "saldo_gols": 1,
+      "aproveitamento": 47,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
       "pontos": 19,
       "time": {
         "nome_popular": "Coritiba",
@@ -130,26 +149,7 @@
       "gols_contra": 17,
       "saldo_gols": -1,
       "aproveitamento": 45,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
-      "pontos": 18,
-      "time": {
-        "nome_popular": "Bragantino",
-        "sigla": "BGT"
-      },
-      "jogos": 14,
-      "vitorias": 5,
-      "empates": 3,
-      "derrotas": 6,
-      "gols_pro": 16,
-      "gols_contra": 16,
-      "saldo_gols": 0,
-      "aproveitamento": 42,
-      "variacao_posicao": 1,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -290,25 +290,6 @@
       "posicao": 16,
       "pontos": 15,
       "time": {
-        "nome_popular": "Corinthians",
-        "sigla": "COR"
-      },
-      "jogos": 13,
-      "vitorias": 3,
-      "empates": 6,
-      "derrotas": 4,
-      "gols_pro": 9,
-      "gols_contra": 11,
-      "saldo_gols": -2,
-      "aproveitamento": 38,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 17,
-      "pontos": 15,
-      "time": {
         "nome_popular": "Santos",
         "sigla": "SAN"
       },
@@ -320,12 +301,50 @@
       "gols_contra": 22,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 17,
+      "pontos": 15,
+      "time": {
+        "nome_popular": "Corinthians",
+        "sigla": "COR"
+      },
+      "jogos": 14,
+      "vitorias": 3,
+      "empates": 6,
+      "derrotas": 5,
+      "gols_pro": 9,
+      "gols_contra": 12,
+      "saldo_gols": -3,
+      "aproveitamento": 35,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
     {
       "posicao": 18,
+      "pontos": 12,
+      "time": {
+        "nome_popular": "Mirassol",
+        "sigla": "MIR"
+      },
+      "jogos": 13,
+      "vitorias": 3,
+      "empates": 3,
+      "derrotas": 7,
+      "gols_pro": 14,
+      "gols_contra": 18,
+      "saldo_gols": -4,
+      "aproveitamento": 30,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 19,
       "pontos": 11,
       "time": {
         "nome_popular": "Remo",
@@ -339,44 +358,25 @@
       "gols_contra": 24,
       "saldo_gols": -9,
       "aproveitamento": 26,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 19,
-      "pontos": 9,
-      "time": {
-        "nome_popular": "Mirassol",
-        "sigla": "MIR"
-      },
-      "jogos": 12,
-      "vitorias": 2,
-      "empates": 3,
-      "derrotas": 7,
-      "gols_pro": 13,
-      "gols_contra": 18,
-      "saldo_gols": -5,
-      "aproveitamento": 25,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
     {
       "posicao": 20,
-      "pontos": 9,
+      "pontos": 8,
       "time": {
         "nome_popular": "Chapecoense",
         "sigla": "CHA"
       },
       "jogos": 13,
       "vitorias": 1,
-      "empates": 6,
-      "derrotas": 6,
+      "empates": 5,
+      "derrotas": 7,
       "gols_pro": 13,
-      "gols_contra": 25,
-      "saldo_gols": -12,
-      "aproveitamento": 23,
+      "gols_contra": 26,
+      "saldo_gols": -13,
+      "aproveitamento": 20,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
