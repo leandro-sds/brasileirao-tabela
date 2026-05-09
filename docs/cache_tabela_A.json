@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778350210,
+  "timestamp": 1778355436,
   "dados": [
     {
       "posicao": 1,
@@ -117,6 +117,25 @@
     },
     {
       "posicao": 7,
+      "pontos": 22,
+      "time": {
+        "nome_popular": "Coritiba",
+        "sigla": "CFC"
+      },
+      "jogos": 15,
+      "vitorias": 6,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 17,
+      "gols_contra": 17,
+      "saldo_gols": 0,
+      "aproveitamento": 48,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "pre-libertadores"
+    },
+    {
+      "posicao": 8,
       "pontos": 20,
       "time": {
         "nome_popular": "Bragantino",
@@ -130,25 +149,6 @@
       "gols_contra": 16,
       "saldo_gols": 1,
       "aproveitamento": 47,
-      "variacao_posicao": 2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
-      "pontos": 19,
-      "time": {
-        "nome_popular": "Coritiba",
-        "sigla": "CFC"
-      },
-      "jogos": 14,
-      "vitorias": 5,
-      "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 16,
-      "gols_contra": 17,
-      "saldo_gols": -1,
-      "aproveitamento": 45,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
@@ -168,7 +168,7 @@
       "gols_contra": 18,
       "saldo_gols": -2,
       "aproveitamento": 46,
-      "variacao_posicao": 4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -187,7 +187,7 @@
       "gols_contra": 26,
       "saldo_gols": -1,
       "aproveitamento": 43,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -206,31 +206,12 @@
       "gols_contra": 20,
       "saldo_gols": -3,
       "aproveitamento": 40,
-      "variacao_posicao": 4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
       "posicao": 12,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Internacional",
-        "sigla": "INT"
-      },
-      "jogos": 14,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 5,
-      "gols_pro": 14,
-      "gols_contra": 14,
-      "saldo_gols": 0,
-      "aproveitamento": 40,
-      "variacao_posicao": 4,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 13,
       "pontos": 17,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -244,12 +225,12 @@
       "gols_contra": 21,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": -3,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 14,
+      "posicao": 13,
       "pontos": 17,
       "time": {
         "nome_popular": "Grêmio",
@@ -263,7 +244,26 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": -3,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 14,
+      "pontos": 17,
+      "time": {
+        "nome_popular": "Internacional",
+        "sigla": "INT"
+      },
+      "jogos": 15,
+      "vitorias": 4,
+      "empates": 5,
+      "derrotas": 6,
+      "gols_pro": 14,
+      "gols_contra": 15,
+      "saldo_gols": -1,
+      "aproveitamento": 37,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -282,7 +282,7 @@
       "gols_contra": 24,
       "saldo_gols": -6,
       "aproveitamento": 38,
-      "variacao_posicao": -3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -301,7 +301,7 @@
       "gols_contra": 22,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -320,7 +320,7 @@
       "gols_contra": 13,
       "saldo_gols": -3,
       "aproveitamento": 35,
-      "variacao_posicao": -3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
