@@ -1,8 +1,27 @@
 {
-  "timestamp": 1778362245,
+  "timestamp": 1778365765,
   "dados": [
     {
       "posicao": 1,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Sport",
+        "sigla": null
+      },
+      "jogos": 8,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 0,
+      "gols_pro": 10,
+      "gols_contra": 5,
+      "saldo_gols": 5,
+      "aproveitamento": 66,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 2,
       "pontos": 14,
       "time": {
         "nome_popular": "Fortaleza",
@@ -16,12 +35,12 @@
       "gols_contra": 8,
       "saldo_gols": 2,
       "aproveitamento": 66,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 2,
+      "posicao": 3,
       "pontos": 13,
       "time": {
         "nome_popular": "São Bernardo",
@@ -35,26 +54,7 @@
       "gols_contra": 5,
       "saldo_gols": 6,
       "aproveitamento": 61,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 3,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Sport",
-        "sigla": null
-      },
-      "jogos": 7,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 0,
-      "gols_pro": 8,
-      "gols_contra": 4,
-      "saldo_gols": 4,
-      "aproveitamento": 61,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -136,6 +136,25 @@
     },
     {
       "posicao": 8,
+      "pontos": 11,
+      "time": {
+        "nome_popular": "Ceará",
+        "sigla": null
+      },
+      "jogos": 8,
+      "vitorias": 2,
+      "empates": 5,
+      "derrotas": 1,
+      "gols_pro": 8,
+      "gols_contra": 7,
+      "saldo_gols": 1,
+      "aproveitamento": 45,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 9,
       "pontos": 10,
       "time": {
         "nome_popular": "Náutico",
@@ -149,12 +168,12 @@
       "gols_contra": 7,
       "saldo_gols": -2,
       "aproveitamento": 47,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "pontos": 10,
       "time": {
         "nome_popular": "Goiás",
@@ -168,26 +187,7 @@
       "gols_contra": 12,
       "saldo_gols": -4,
       "aproveitamento": 41,
-      "variacao_posicao": 8,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 10,
-      "pontos": 10,
-      "time": {
-        "nome_popular": "Ceará",
-        "sigla": null
-      },
-      "jogos": 7,
-      "vitorias": 2,
-      "empates": 4,
-      "derrotas": 1,
-      "gols_pro": 8,
-      "gols_contra": 7,
-      "saldo_gols": 1,
-      "aproveitamento": 47,
-      "variacao_posicao": -1,
+      "variacao_posicao": 7,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -271,6 +271,25 @@
       "posicao": 15,
       "pontos": 9,
       "time": {
+        "nome_popular": "Atlético Goianiense",
+        "sigla": null
+      },
+      "jogos": 8,
+      "vitorias": 2,
+      "empates": 3,
+      "derrotas": 3,
+      "gols_pro": 7,
+      "gols_contra": 8,
+      "saldo_gols": -1,
+      "aproveitamento": 37,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
+      "pontos": 9,
+      "time": {
         "nome_popular": "Cuiabá",
         "sigla": null
       },
@@ -282,26 +301,7 @@
       "gols_contra": 4,
       "saldo_gols": 0,
       "aproveitamento": 37,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 8,
-      "time": {
-        "nome_popular": "Atlético Goianiense",
-        "sigla": null
-      },
-      "jogos": 7,
-      "vitorias": 2,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 7,
-      "gols_contra": 8,
-      "saldo_gols": -1,
-      "aproveitamento": 38,
-      "variacao_posicao": -2,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -312,14 +312,14 @@
         "nome_popular": "Ponte Preta",
         "sigla": null
       },
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 2,
       "empates": 1,
-      "derrotas": 4,
-      "gols_pro": 5,
-      "gols_contra": 9,
-      "saldo_gols": -4,
-      "aproveitamento": 33,
+      "derrotas": 5,
+      "gols_pro": 6,
+      "gols_contra": 11,
+      "saldo_gols": -5,
+      "aproveitamento": 29,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
