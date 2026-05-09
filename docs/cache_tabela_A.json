@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778365763,
+  "timestamp": 1778368309,
   "dados": [
     {
       "posicao": 1,
@@ -41,19 +41,19 @@
     },
     {
       "posicao": 3,
-      "pontos": 26,
+      "pontos": 27,
       "time": {
         "nome_popular": "Fluminense",
         "sigla": "FLU"
       },
       "jogos": 15,
       "vitorias": 8,
-      "empates": 2,
-      "derrotas": 5,
-      "gols_pro": 24,
+      "empates": 3,
+      "derrotas": 4,
+      "gols_pro": 25,
       "gols_contra": 20,
-      "saldo_gols": 4,
-      "aproveitamento": 57,
+      "saldo_gols": 5,
+      "aproveitamento": 60,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -117,25 +117,6 @@
     },
     {
       "posicao": 7,
-      "pontos": 21,
-      "time": {
-        "nome_popular": "Vitória",
-        "sigla": "VIT"
-      },
-      "jogos": 14,
-      "vitorias": 6,
-      "empates": 3,
-      "derrotas": 5,
-      "gols_pro": 18,
-      "gols_contra": 19,
-      "saldo_gols": -1,
-      "aproveitamento": 50,
-      "variacao_posicao": 2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "pre-libertadores"
-    },
-    {
-      "posicao": 8,
       "pontos": 20,
       "time": {
         "nome_popular": "Bragantino",
@@ -149,12 +130,12 @@
       "gols_contra": 16,
       "saldo_gols": 1,
       "aproveitamento": 47,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
+      "faixa_classificacao": "pre-libertadores"
     },
     {
-      "posicao": 9,
+      "posicao": 8,
       "pontos": 20,
       "time": {
         "nome_popular": "Coritiba",
@@ -168,7 +149,26 @@
       "gols_contra": 19,
       "saldo_gols": -1,
       "aproveitamento": 44,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Vitória",
+        "sigla": "VIT"
+      },
+      "jogos": 14,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 18,
+      "gols_contra": 20,
+      "saldo_gols": -2,
+      "aproveitamento": 45,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
