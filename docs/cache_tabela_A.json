@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778371677,
+  "timestamp": 1778387328,
   "dados": [
     {
       "posicao": 1,
@@ -98,19 +98,19 @@
     },
     {
       "posicao": 6,
-      "pontos": 23,
+      "pontos": 22,
       "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
       "jogos": 14,
       "vitorias": 6,
-      "empates": 5,
-      "derrotas": 3,
-      "gols_pro": 19,
-      "gols_contra": 16,
-      "saldo_gols": 3,
-      "aproveitamento": 54,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 20,
+      "gols_contra": 18,
+      "saldo_gols": 2,
+      "aproveitamento": 52,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
@@ -174,6 +174,25 @@
     },
     {
       "posicao": 10,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Cruzeiro",
+        "sigla": "CRU"
+      },
+      "jogos": 15,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 6,
+      "gols_pro": 20,
+      "gols_contra": 25,
+      "saldo_gols": -5,
+      "aproveitamento": 42,
+      "variacao_posicao": 5,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 11,
       "pontos": 18,
       "time": {
         "nome_popular": "Internacional",
@@ -187,12 +206,12 @@
       "gols_contra": 16,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": 2,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 11,
+      "posicao": 12,
       "pontos": 17,
       "time": {
         "nome_popular": "Botafogo",
@@ -206,12 +225,12 @@
       "gols_contra": 26,
       "saldo_gols": -1,
       "aproveitamento": 43,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 12,
+      "posicao": 13,
       "pontos": 17,
       "time": {
         "nome_popular": "Atlético-MG",
@@ -225,12 +244,12 @@
       "gols_contra": 20,
       "saldo_gols": -3,
       "aproveitamento": 40,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 13,
+      "posicao": 14,
       "pontos": 17,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -244,12 +263,12 @@
       "gols_contra": 21,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
+      "faixa_classificacao": null
     },
     {
-      "posicao": 14,
+      "posicao": 15,
       "pontos": 17,
       "time": {
         "nome_popular": "Grêmio",
@@ -263,26 +282,7 @@
       "gols_contra": 16,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 15,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Cruzeiro",
-        "sigla": "CRU"
-      },
-      "jogos": 15,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 6,
-      "gols_pro": 18,
-      "gols_contra": 24,
-      "saldo_gols": -6,
-      "aproveitamento": 37,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
