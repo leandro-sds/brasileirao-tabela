@@ -1,21 +1,21 @@
 {
-  "timestamp": 1778436721,
+  "timestamp": 1778441834,
   "dados": [
     {
       "posicao": 1,
-      "pontos": 33,
+      "pontos": 34,
       "time": {
         "nome_popular": "Palmeiras",
         "sigla": "PAL"
       },
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 10,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 1,
       "gols_pro": 24,
       "gols_contra": 11,
       "saldo_gols": 13,
-      "aproveitamento": 78,
+      "aproveitamento": 75,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -138,6 +138,25 @@
       "posicao": 8,
       "pontos": 20,
       "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 15,
+      "vitorias": 6,
+      "empates": 2,
+      "derrotas": 7,
+      "gols_pro": 18,
+      "gols_contra": 20,
+      "saldo_gols": -2,
+      "aproveitamento": 44,
+      "variacao_posicao": 3,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 9,
+      "pontos": 20,
+      "time": {
         "nome_popular": "Coritiba",
         "sigla": "CFC"
       },
@@ -149,12 +168,12 @@
       "gols_contra": 19,
       "saldo_gols": -1,
       "aproveitamento": 44,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "pontos": 19,
       "time": {
         "nome_popular": "Vitória",
@@ -168,12 +187,12 @@
       "gols_contra": 20,
       "saldo_gols": -2,
       "aproveitamento": 45,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 10,
+      "posicao": 11,
       "pontos": 19,
       "time": {
         "nome_popular": "Cruzeiro",
@@ -187,12 +206,12 @@
       "gols_contra": 25,
       "saldo_gols": -5,
       "aproveitamento": 42,
-      "variacao_posicao": 5,
+      "variacao_posicao": 4,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
     {
-      "posicao": 11,
+      "posicao": 12,
       "pontos": 18,
       "time": {
         "nome_popular": "Internacional",
@@ -206,26 +225,7 @@
       "gols_contra": 16,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 12,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Botafogo",
-        "sigla": "BOT"
-      },
-      "jogos": 13,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 6,
-      "gols_pro": 25,
-      "gols_contra": 26,
-      "saldo_gols": -1,
-      "aproveitamento": 43,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -233,18 +233,18 @@
       "posicao": 13,
       "pontos": 17,
       "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
+        "nome_popular": "Botafogo",
+        "sigla": "BOT"
       },
       "jogos": 14,
       "vitorias": 5,
       "empates": 2,
       "derrotas": 7,
-      "gols_pro": 17,
-      "gols_contra": 20,
-      "saldo_gols": -3,
+      "gols_pro": 25,
+      "gols_contra": 27,
+      "saldo_gols": -2,
       "aproveitamento": 40,
-      "variacao_posicao": -2,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -345,14 +345,14 @@
     },
     {
       "posicao": 19,
-      "pontos": 11,
+      "pontos": 12,
       "time": {
         "nome_popular": "Remo",
         "sigla": "REM"
       },
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 2,
-      "empates": 5,
+      "empates": 6,
       "derrotas": 7,
       "gols_pro": 15,
       "gols_contra": 24,
