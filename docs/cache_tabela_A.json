@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778368309,
+  "timestamp": 1778371677,
   "dados": [
     {
       "posicao": 1,
@@ -98,19 +98,19 @@
     },
     {
       "posicao": 6,
-      "pontos": 22,
+      "pontos": 23,
       "time": {
         "nome_popular": "Bahia",
         "sigla": "BAH"
       },
-      "jogos": 13,
+      "jogos": 14,
       "vitorias": 6,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 3,
       "gols_pro": 19,
       "gols_contra": 16,
       "saldo_gols": 3,
-      "aproveitamento": 56,
+      "aproveitamento": 54,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
@@ -269,19 +269,19 @@
     },
     {
       "posicao": 15,
-      "pontos": 16,
+      "pontos": 17,
       "time": {
         "nome_popular": "Cruzeiro",
         "sigla": "CRU"
       },
-      "jogos": 14,
+      "jogos": 15,
       "vitorias": 4,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 6,
       "gols_pro": 18,
       "gols_contra": 24,
       "saldo_gols": -6,
-      "aproveitamento": 38,
+      "aproveitamento": 37,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null

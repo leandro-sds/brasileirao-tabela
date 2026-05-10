@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778368310,
+  "timestamp": 1778371677,
   "dados": [
     {
       "posicao": 1,
@@ -84,14 +84,14 @@
         "nome_popular": "Operário PR",
         "sigla": null
       },
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 3,
       "empates": 3,
-      "derrotas": 1,
+      "derrotas": 2,
       "gols_pro": 7,
-      "gols_contra": 3,
-      "saldo_gols": 4,
-      "aproveitamento": 57,
+      "gols_contra": 5,
+      "saldo_gols": 2,
+      "aproveitamento": 50,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -307,6 +307,25 @@
     },
     {
       "posicao": 17,
+      "pontos": 8,
+      "time": {
+        "nome_popular": "CRB",
+        "sigla": null
+      },
+      "jogos": 8,
+      "vitorias": 2,
+      "empates": 2,
+      "derrotas": 4,
+      "gols_pro": 10,
+      "gols_contra": 12,
+      "saldo_gols": -2,
+      "aproveitamento": 33,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "rebaixados"
+    },
+    {
+      "posicao": 18,
       "pontos": 7,
       "time": {
         "nome_popular": "Ponte Preta",
@@ -320,26 +339,7 @@
       "gols_contra": 12,
       "saldo_gols": -6,
       "aproveitamento": 29,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "rebaixados"
-    },
-    {
-      "posicao": 18,
-      "pontos": 5,
-      "time": {
-        "nome_popular": "CRB",
-        "sigla": null
-      },
-      "jogos": 7,
-      "vitorias": 1,
-      "empates": 2,
-      "derrotas": 4,
-      "gols_pro": 8,
-      "gols_contra": 12,
-      "saldo_gols": -4,
-      "aproveitamento": 23,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
