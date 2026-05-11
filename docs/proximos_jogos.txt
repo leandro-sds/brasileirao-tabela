@@ -1,16 +1,3 @@
-# Rodada 15 de 38
-
-Coritiba x Internacional | Sáb. 09/05 | 16:00
-Fluminense x EC Vitória | Sáb. 09/05 | 18:00
-Bahia x Cruzeiro | Sáb. 09/05 | 21:00
-Remo x Palmeiras | Dom. 10/05 | 16:00
-Atlético-MG x Botafogo | Dom. 10/05 | 16:00
-Santos x Bragantino | Dom. 10/05 | 18:30
-Mirassol x Chapecoense | Dom. 10/05 | 18:30
-Corinthians x São Paulo | Dom. 10/05 | 18:30
-Grêmio x Flamengo | Dom. 10/05 | 19:30
-Vasco da Gama x Athletico-PR | Dom. 10/05 | 20:30
-
 # Rodada 16 de 38
 
 Internacional x Vasco da Gama | Sáb. 16/05 | 18:30
