@@ -1,8 +1,27 @@
 {
-  "timestamp": 1778623136,
+  "timestamp": 1778626659,
   "dados": [
     {
       "posicao": 1,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "São Bernardo",
+        "sigla": null
+      },
+      "jogos": 8,
+      "vitorias": 5,
+      "empates": 1,
+      "derrotas": 2,
+      "gols_pro": 13,
+      "gols_contra": 5,
+      "saldo_gols": 8,
+      "aproveitamento": 66,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 2,
       "pontos": 16,
       "time": {
         "nome_popular": "Sport",
@@ -16,12 +35,12 @@
       "gols_contra": 5,
       "saldo_gols": 6,
       "aproveitamento": 66,
-      "variacao_posicao": 2,
+      "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 2,
+      "posicao": 3,
       "pontos": 15,
       "time": {
         "nome_popular": "Fortaleza",
@@ -35,26 +54,7 @@
       "gols_contra": 8,
       "saldo_gols": 2,
       "aproveitamento": 62,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 3,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "São Bernardo",
-        "sigla": null
-      },
-      "jogos": 7,
-      "vitorias": 4,
-      "empates": 1,
-      "derrotas": 2,
-      "gols_pro": 11,
-      "gols_contra": 5,
-      "saldo_gols": 6,
-      "aproveitamento": 61,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -350,14 +350,14 @@
         "nome_popular": "Londrina",
         "sigla": null
       },
-      "jogos": 7,
+      "jogos": 8,
       "vitorias": 1,
       "empates": 2,
-      "derrotas": 4,
+      "derrotas": 5,
       "gols_pro": 7,
-      "gols_contra": 11,
-      "saldo_gols": -4,
-      "aproveitamento": 23,
+      "gols_contra": 13,
+      "saldo_gols": -6,
+      "aproveitamento": 20,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
