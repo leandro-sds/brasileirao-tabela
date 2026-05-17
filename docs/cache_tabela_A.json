@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779027454,
+  "timestamp": 1779031936,
   "dados": [
     {
       "posicao": 1,
@@ -107,9 +107,9 @@
       "vitorias": 6,
       "empates": 5,
       "derrotas": 5,
-      "gols_pro": 19,
+      "gols_pro": 21,
       "gols_contra": 19,
-      "saldo_gols": 0,
+      "saldo_gols": 2,
       "aproveitamento": 47,
       "variacao_posicao": 3,
       "ultimos_jogos": [],
@@ -271,25 +271,6 @@
       "posicao": 15,
       "pontos": 18,
       "time": {
-        "nome_popular": "Santos",
-        "sigla": "SAN"
-      },
-      "jogos": 16,
-      "vitorias": 4,
-      "empates": 6,
-      "derrotas": 6,
-      "gols_pro": 21,
-      "gols_contra": 23,
-      "saldo_gols": -2,
-      "aproveitamento": 37,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 18,
-      "time": {
         "nome_popular": "Corinthians",
         "sigla": "COR"
       },
@@ -301,7 +282,26 @@
       "gols_contra": 15,
       "saldo_gols": -2,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
+      "pontos": 18,
+      "time": {
+        "nome_popular": "Santos",
+        "sigla": "SAN"
+      },
+      "jogos": 16,
+      "vitorias": 4,
+      "empates": 6,
+      "derrotas": 6,
+      "gols_pro": 21,
+      "gols_contra": 25,
+      "saldo_gols": -4,
+      "aproveitamento": 37,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
