@@ -1,16 +1,3 @@
-# Rodada 16 de 38
-
-Internacional x Vasco da Gama | Sáb. 16/05 | 18:30
-Atlético-MG x Mirassol | Sáb. 16/05 | 18:30
-Fluminense x São Paulo | Sáb. 16/05 | 20:30
-Palmeiras x Cruzeiro | Sáb. 16/05 | 21:00
-Santos x Coritiba | Dom. 17/05 | 11:00
-Bahia x Grêmio | Dom. 17/05 | 16:00
-Botafogo x Corinthians | Dom. 17/05 | 16:00
-Chapecoense x Remo | Dom. 17/05 | 18:30
-Bragantino x EC Vitória | Dom. 17/05 | 18:30
-Athletico-PR x Flamengo | Dom. 17/05 | 19:30
-
 # Rodada 17 de 38
 
 EC Vitória x Internacional | Sáb. 23/05 | 17:00
@@ -23,3 +10,17 @@ Cruzeiro x Chapecoense | Dom. 24/05 | 16:00
 Corinthians x Atlético-MG | Dom. 24/05 | 18:30
 Vasco da Gama x Bragantino | Dom. 24/05 | 20:30
 Coritiba x Bahia | Seg. 25/05 | 20:00
+
+# Rodada 18 de 38
+
+Flamengo x Coritiba | Sáb. 30/05 | 16:00
+Athletico-PR x Mirassol | Sáb. 30/05 | 16:00
+Grêmio x Corinthians | Sáb. 30/05 | 17:30
+Bahia x Botafogo | Sáb. 30/05 | 17:30
+Remo x São Paulo | Sáb. 30/05 | 19:30
+Santos x EC Vitória | Sáb. 30/05 | 21:00
+Bragantino x Internacional | Dom. 31/05 | 11:00
+Vasco da Gama x Atlético-MG | Dom. 31/05 | 16:00
+Palmeiras x Chapecoense | Dom. 31/05 | 16:00
+Cruzeiro x Fluminense | Dom. 31/05 | 20:30
+
