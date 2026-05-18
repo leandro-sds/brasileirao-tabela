@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779061433,
+  "timestamp": 1779069156,
   "dados": [
     {
       "posicao": 1,
@@ -22,19 +22,19 @@
     },
     {
       "posicao": 2,
-      "pontos": 30,
+      "pontos": 31,
       "time": {
         "nome_popular": "Flamengo",
         "sigla": "FLA"
       },
       "jogos": 15,
       "vitorias": 9,
-      "empates": 3,
-      "derrotas": 3,
-      "gols_pro": 27,
+      "empates": 4,
+      "derrotas": 2,
+      "gols_pro": 28,
       "gols_contra": 13,
-      "saldo_gols": 14,
-      "aproveitamento": 66,
+      "saldo_gols": 15,
+      "aproveitamento": 68,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -60,25 +60,6 @@
     },
     {
       "posicao": 4,
-      "pontos": 26,
-      "time": {
-        "nome_popular": "Athletico-PR",
-        "sigla": "CAP"
-      },
-      "jogos": 16,
-      "vitorias": 8,
-      "empates": 2,
-      "derrotas": 6,
-      "gols_pro": 21,
-      "gols_contra": 16,
-      "saldo_gols": 5,
-      "aproveitamento": 54,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
       "pontos": 24,
       "time": {
         "nome_popular": "São Paulo",
@@ -92,7 +73,26 @@
       "gols_contra": 18,
       "saldo_gols": 4,
       "aproveitamento": 50,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
+      "pontos": 24,
+      "time": {
+        "nome_popular": "Athletico-PR",
+        "sigla": "CAP"
+      },
+      "jogos": 16,
+      "vitorias": 7,
+      "empates": 3,
+      "derrotas": 6,
+      "gols_pro": 21,
+      "gols_contra": 17,
+      "saldo_gols": 4,
+      "aproveitamento": 50,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },

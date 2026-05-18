@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779061433,
+  "timestamp": 1779069157,
   "dados": [
     {
       "posicao": 1,
@@ -22,25 +22,6 @@
     },
     {
       "posicao": 2,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Sport",
-        "sigla": null
-      },
-      "jogos": 9,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 0,
-      "gols_pro": 11,
-      "gols_contra": 5,
-      "saldo_gols": 6,
-      "aproveitamento": 62,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 3,
       "pontos": 16,
       "time": {
         "nome_popular": "Náutico",
@@ -54,7 +35,26 @@
       "gols_contra": 9,
       "saldo_gols": 6,
       "aproveitamento": 59,
-      "variacao_posicao": 1,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 3,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Sport",
+        "sigla": null
+      },
+      "jogos": 9,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 1,
+      "gols_pro": 12,
+      "gols_contra": 7,
+      "saldo_gols": 5,
+      "aproveitamento": 59,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -233,6 +233,25 @@
       "posicao": 13,
       "pontos": 11,
       "time": {
+        "nome_popular": "CRB",
+        "sigla": null
+      },
+      "jogos": 9,
+      "vitorias": 3,
+      "empates": 2,
+      "derrotas": 4,
+      "gols_pro": 13,
+      "gols_contra": 13,
+      "saldo_gols": 0,
+      "aproveitamento": 40,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 14,
+      "pontos": 11,
+      "time": {
         "nome_popular": "Athletic Club",
         "sigla": null
       },
@@ -244,12 +263,12 @@
       "gols_contra": 10,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 14,
+      "posicao": 15,
       "pontos": 10,
       "time": {
         "nome_popular": "Avaí",
@@ -263,12 +282,12 @@
       "gols_contra": 11,
       "saldo_gols": -1,
       "aproveitamento": 37,
-      "variacao_posicao": -2,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 15,
+      "posicao": 16,
       "pontos": 10,
       "time": {
         "nome_popular": "Cuiabá",
@@ -282,12 +301,12 @@
       "gols_contra": 4,
       "saldo_gols": 0,
       "aproveitamento": 37,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 16,
+      "posicao": 17,
       "pontos": 9,
       "time": {
         "nome_popular": "Botafogo-SP",
@@ -301,26 +320,7 @@
       "gols_contra": 9,
       "saldo_gols": 1,
       "aproveitamento": 33,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 17,
-      "pontos": 9,
-      "time": {
-        "nome_popular": "CRB",
-        "sigla": null
-      },
-      "jogos": 9,
-      "vitorias": 2,
-      "empates": 3,
-      "derrotas": 4,
-      "gols_pro": 11,
-      "gols_contra": 12,
-      "saldo_gols": -1,
-      "aproveitamento": 33,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
