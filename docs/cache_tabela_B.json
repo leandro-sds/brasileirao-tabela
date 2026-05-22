@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779485955,
+  "timestamp": 1779489886,
   "dados": [
     {
       "posicao": 1,
@@ -22,20 +22,20 @@
     },
     {
       "posicao": 2,
-      "pontos": 16,
+      "pontos": 17,
       "time": {
         "nome_popular": "Náutico",
         "sigla": null
       },
-      "jogos": 9,
+      "jogos": 10,
       "vitorias": 5,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 3,
       "gols_pro": 15,
       "gols_contra": 9,
       "saldo_gols": 6,
-      "aproveitamento": 59,
-      "variacao_posicao": 2,
+      "aproveitamento": 56,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -54,7 +54,7 @@
       "gols_contra": 7,
       "saldo_gols": 5,
       "aproveitamento": 59,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -73,7 +73,7 @@
       "gols_contra": 10,
       "saldo_gols": 4,
       "aproveitamento": 59,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -92,7 +92,7 @@
       "gols_contra": 10,
       "saldo_gols": 1,
       "aproveitamento": 55,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -111,7 +111,7 @@
       "gols_contra": 12,
       "saldo_gols": -3,
       "aproveitamento": 48,
-      "variacao_posicao": 5,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -130,7 +130,7 @@
       "gols_contra": 9,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -149,7 +149,7 @@
       "gols_contra": 8,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -168,7 +168,7 @@
       "gols_contra": 9,
       "saldo_gols": 1,
       "aproveitamento": 48,
-      "variacao_posicao": 5,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -187,7 +187,7 @@
       "gols_contra": 5,
       "saldo_gols": 1,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -206,7 +206,7 @@
       "gols_contra": 9,
       "saldo_gols": 0,
       "aproveitamento": 44,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -225,7 +225,7 @@
       "gols_contra": 12,
       "saldo_gols": -3,
       "aproveitamento": 44,
-      "variacao_posicao": -4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -244,7 +244,7 @@
       "gols_contra": 13,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": 4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -263,12 +263,31 @@
       "gols_contra": 10,
       "saldo_gols": 0,
       "aproveitamento": 40,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 15,
+      "pontos": 11,
+      "time": {
+        "nome_popular": "Cuiabá",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 1,
+      "empates": 8,
+      "derrotas": 1,
+      "gols_pro": 4,
+      "gols_contra": 4,
+      "saldo_gols": 0,
+      "aproveitamento": 36,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
       "pontos": 10,
       "time": {
         "nome_popular": "Avaí",
@@ -282,26 +301,7 @@
       "gols_contra": 11,
       "saldo_gols": -1,
       "aproveitamento": 37,
-      "variacao_posicao": -3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 10,
-      "time": {
-        "nome_popular": "Cuiabá",
-        "sigla": null
-      },
-      "jogos": 9,
-      "vitorias": 1,
-      "empates": 7,
-      "derrotas": 1,
-      "gols_pro": 4,
-      "gols_contra": 4,
-      "saldo_gols": 0,
-      "aproveitamento": 37,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -320,7 +320,7 @@
       "gols_contra": 9,
       "saldo_gols": 1,
       "aproveitamento": 33,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
@@ -339,7 +339,7 @@
       "gols_contra": 15,
       "saldo_gols": -3,
       "aproveitamento": 29,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
@@ -358,7 +358,7 @@
       "gols_contra": 16,
       "saldo_gols": -9,
       "aproveitamento": 25,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
