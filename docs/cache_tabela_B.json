@@ -1,8 +1,27 @@
 {
-  "timestamp": 1779489886,
+  "timestamp": 1779494017,
   "dados": [
     {
       "posicao": 1,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Náutico",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 6,
+      "empates": 1,
+      "derrotas": 3,
+      "gols_pro": 16,
+      "gols_contra": 9,
+      "saldo_gols": 7,
+      "aproveitamento": 63,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 2,
       "pontos": 17,
       "time": {
         "nome_popular": "São Bernardo",
@@ -16,26 +35,7 @@
       "gols_contra": 7,
       "saldo_gols": 8,
       "aproveitamento": 62,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 2,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Náutico",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 3,
-      "gols_pro": 15,
-      "gols_contra": 9,
-      "saldo_gols": 6,
-      "aproveitamento": 56,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -269,25 +269,6 @@
     },
     {
       "posicao": 15,
-      "pontos": 11,
-      "time": {
-        "nome_popular": "Cuiabá",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 1,
-      "empates": 8,
-      "derrotas": 1,
-      "gols_pro": 4,
-      "gols_contra": 4,
-      "saldo_gols": 0,
-      "aproveitamento": 36,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
       "pontos": 10,
       "time": {
         "nome_popular": "Avaí",
@@ -301,7 +282,26 @@
       "gols_contra": 11,
       "saldo_gols": -1,
       "aproveitamento": 37,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
+      "pontos": 10,
+      "time": {
+        "nome_popular": "Cuiabá",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 1,
+      "empates": 7,
+      "derrotas": 2,
+      "gols_pro": 4,
+      "gols_contra": 5,
+      "saldo_gols": -1,
+      "aproveitamento": 33,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
