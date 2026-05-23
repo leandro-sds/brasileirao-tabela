@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779568984,
+  "timestamp": 1779572436,
   "dados": [
     {
       "posicao": 1,
@@ -79,6 +79,25 @@
     },
     {
       "posicao": 5,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Novorizontino",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 2,
+      "gols_pro": 13,
+      "gols_contra": 10,
+      "saldo_gols": 3,
+      "aproveitamento": 53,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 6,
       "pontos": 15,
       "time": {
         "nome_popular": "Fortaleza",
@@ -92,50 +111,12 @@
       "gols_contra": 10,
       "saldo_gols": 1,
       "aproveitamento": 55,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 6,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Novorizontino",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 12,
-      "gols_contra": 10,
-      "saldo_gols": 2,
-      "aproveitamento": 46,
-      "variacao_posicao": 1,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 7,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Ceará",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 11,
-      "gols_contra": 10,
-      "saldo_gols": 1,
-      "aproveitamento": 46,
-      "variacao_posicao": 2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 8,
       "pontos": 13,
       "time": {
         "nome_popular": "Goiás",
@@ -149,12 +130,12 @@
       "gols_contra": 12,
       "saldo_gols": -3,
       "aproveitamento": 48,
-      "variacao_posicao": -2,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 9,
+      "posicao": 8,
       "pontos": 13,
       "time": {
         "nome_popular": "Criciúma",
@@ -168,12 +149,12 @@
       "gols_contra": 8,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 10,
+      "posicao": 9,
       "pontos": 13,
       "time": {
         "nome_popular": "Juventude",
@@ -187,7 +168,26 @@
       "gols_contra": 5,
       "saldo_gols": 1,
       "aproveitamento": 48,
-      "variacao_posicao": 0,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 10,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Ceará",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 3,
+      "gols_pro": 11,
+      "gols_contra": 11,
+      "saldo_gols": 0,
+      "aproveitamento": 43,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
