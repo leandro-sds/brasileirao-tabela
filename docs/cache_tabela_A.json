@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779655598,
+  "timestamp": 1779658910,
   "dados": [
     {
       "posicao": 1,
@@ -165,8 +165,8 @@
       "empates": 5,
       "derrotas": 6,
       "gols_pro": 23,
-      "gols_contra": 26,
-      "saldo_gols": -3,
+      "gols_contra": 27,
+      "saldo_gols": -4,
       "aproveitamento": 45,
       "variacao_posicao": 4,
       "ultimos_jogos": [],
@@ -195,6 +195,25 @@
       "posicao": 11,
       "pontos": 22,
       "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 17,
+      "vitorias": 6,
+      "empates": 4,
+      "derrotas": 7,
+      "gols_pro": 21,
+      "gols_contra": 22,
+      "saldo_gols": -1,
+      "aproveitamento": 43,
+      "variacao_posicao": -1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 22,
+      "time": {
         "nome_popular": "Vitória",
         "sigla": "VIT"
       },
@@ -206,26 +225,7 @@
       "gols_contra": 22,
       "saldo_gols": -2,
       "aproveitamento": 45,
-      "variacao_posicao": 3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 12,
-      "pontos": 21,
-      "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
-      },
-      "jogos": 16,
-      "vitorias": 6,
-      "empates": 3,
-      "derrotas": 7,
-      "gols_pro": 21,
-      "gols_contra": 22,
-      "saldo_gols": -1,
-      "aproveitamento": 43,
-      "variacao_posicao": -2,
+      "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -288,14 +288,14 @@
     },
     {
       "posicao": 16,
-      "pontos": 18,
+      "pontos": 19,
       "time": {
         "nome_popular": "Corinthians",
         "sigla": "COR"
       },
-      "jogos": 16,
+      "jogos": 17,
       "vitorias": 4,
-      "empates": 6,
+      "empates": 7,
       "derrotas": 6,
       "gols_pro": 14,
       "gols_contra": 18,
@@ -373,9 +373,9 @@
       "vitorias": 1,
       "empates": 6,
       "derrotas": 9,
-      "gols_pro": 16,
+      "gols_pro": 17,
       "gols_contra": 32,
-      "saldo_gols": -16,
+      "saldo_gols": -15,
       "aproveitamento": 18,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
