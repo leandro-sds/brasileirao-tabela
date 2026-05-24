@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779662562,
+  "timestamp": 1779666357,
   "dados": [
     {
       "posicao": 1,
@@ -98,14 +98,14 @@
     },
     {
       "posicao": 6,
-      "pontos": 23,
+      "pontos": 24,
       "time": {
         "nome_popular": "Bragantino",
         "sigla": "BGT"
       },
-      "jogos": 16,
+      "jogos": 17,
       "vitorias": 7,
-      "empates": 2,
+      "empates": 3,
       "derrotas": 7,
       "gols_pro": 19,
       "gols_contra": 18,
@@ -195,25 +195,6 @@
       "posicao": 11,
       "pontos": 22,
       "time": {
-        "nome_popular": "Atlético-MG",
-        "sigla": "CAM"
-      },
-      "jogos": 17,
-      "vitorias": 6,
-      "empates": 4,
-      "derrotas": 7,
-      "gols_pro": 21,
-      "gols_contra": 22,
-      "saldo_gols": -1,
-      "aproveitamento": 43,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "sul-americana"
-    },
-    {
-      "posicao": 12,
-      "pontos": 22,
-      "time": {
         "nome_popular": "Vitória",
         "sigla": "VIT"
       },
@@ -225,7 +206,26 @@
       "gols_contra": 22,
       "saldo_gols": -2,
       "aproveitamento": 45,
-      "variacao_posicao": 2,
+      "variacao_posicao": 3,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "sul-americana"
+    },
+    {
+      "posicao": 12,
+      "pontos": 21,
+      "time": {
+        "nome_popular": "Atlético-MG",
+        "sigla": "CAM"
+      },
+      "jogos": 17,
+      "vitorias": 6,
+      "empates": 3,
+      "derrotas": 8,
+      "gols_pro": 21,
+      "gols_contra": 23,
+      "saldo_gols": -2,
+      "aproveitamento": 41,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -269,14 +269,14 @@
     },
     {
       "posicao": 15,
-      "pontos": 20,
+      "pontos": 21,
       "time": {
         "nome_popular": "Vasco da Gama",
         "sigla": "VAS"
       },
-      "jogos": 16,
+      "jogos": 17,
       "vitorias": 5,
-      "empates": 5,
+      "empates": 6,
       "derrotas": 6,
       "gols_pro": 22,
       "gols_contra": 25,
@@ -288,19 +288,19 @@
     },
     {
       "posicao": 16,
-      "pontos": 19,
+      "pontos": 21,
       "time": {
         "nome_popular": "Corinthians",
         "sigla": "COR"
       },
       "jogos": 17,
-      "vitorias": 4,
-      "empates": 7,
+      "vitorias": 5,
+      "empates": 6,
       "derrotas": 6,
-      "gols_pro": 14,
+      "gols_pro": 15,
       "gols_contra": 18,
-      "saldo_gols": -4,
-      "aproveitamento": 37,
+      "saldo_gols": -3,
+      "aproveitamento": 41,
       "variacao_posicao": 1,
       "ultimos_jogos": [],
       "faixa_classificacao": null

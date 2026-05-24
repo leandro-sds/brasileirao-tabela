@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779662562,
+  "timestamp": 1779666357,
   "dados": [
     {
       "posicao": 1,
@@ -60,6 +60,25 @@
     },
     {
       "posicao": 4,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Vila Nova",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 1,
+      "gols_pro": 16,
+      "gols_contra": 11,
+      "saldo_gols": 5,
+      "aproveitamento": 63,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
       "pontos": 18,
       "time": {
         "nome_popular": "Fortaleza",
@@ -73,31 +92,31 @@
       "gols_contra": 10,
       "saldo_gols": 4,
       "aproveitamento": 60,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
-      "pontos": 16,
-      "time": {
-        "nome_popular": "Vila Nova",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 2,
-      "gols_pro": 14,
-      "gols_contra": 11,
-      "saldo_gols": 3,
-      "aproveitamento": 53,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 6,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Goiás",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 5,
+      "empates": 1,
+      "derrotas": 4,
+      "gols_pro": 10,
+      "gols_contra": 12,
+      "saldo_gols": -2,
+      "aproveitamento": 53,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 7,
       "pontos": 16,
       "time": {
         "nome_popular": "Novorizontino",
@@ -111,12 +130,12 @@
       "gols_contra": 10,
       "saldo_gols": 3,
       "aproveitamento": 53,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 7,
+      "posicao": 8,
       "pontos": 14,
       "time": {
         "nome_popular": "CRB",
@@ -130,44 +149,25 @@
       "gols_contra": 15,
       "saldo_gols": 2,
       "aproveitamento": 46,
-      "variacao_posicao": 6,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 8,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Goiás",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 4,
-      "gols_pro": 9,
-      "gols_contra": 12,
-      "saldo_gols": -3,
-      "aproveitamento": 46,
-      "variacao_posicao": -2,
+      "variacao_posicao": 5,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
       "posicao": 9,
-      "pontos": 13,
+      "pontos": 14,
       "time": {
         "nome_popular": "Criciúma",
         "sigla": null
       },
-      "jogos": 9,
+      "jogos": 10,
       "vitorias": 3,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 2,
       "gols_pro": 10,
       "gols_contra": 8,
       "saldo_gols": 2,
-      "aproveitamento": 48,
+      "aproveitamento": 46,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -212,6 +212,25 @@
     },
     {
       "posicao": 12,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Operário PR",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 3,
+      "gols_pro": 9,
+      "gols_contra": 12,
+      "saldo_gols": -3,
+      "aproveitamento": 43,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 13,
       "pontos": 12,
       "time": {
         "nome_popular": "Atlético Goianiense",
@@ -225,26 +244,7 @@
       "gols_contra": 10,
       "saldo_gols": -1,
       "aproveitamento": 40,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 13,
-      "pontos": 12,
-      "time": {
-        "nome_popular": "Operário PR",
-        "sigla": null
-      },
-      "jogos": 9,
-      "vitorias": 3,
-      "empates": 3,
-      "derrotas": 3,
-      "gols_pro": 9,
-      "gols_contra": 12,
-      "saldo_gols": -3,
-      "aproveitamento": 44,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -269,19 +269,19 @@
     },
     {
       "posicao": 15,
-      "pontos": 11,
+      "pontos": 10,
       "time": {
         "nome_popular": "Avaí",
         "sigla": null
       },
       "jogos": 10,
       "vitorias": 2,
-      "empates": 5,
-      "derrotas": 3,
+      "empates": 4,
+      "derrotas": 4,
       "gols_pro": 10,
-      "gols_contra": 11,
-      "saldo_gols": -1,
-      "aproveitamento": 36,
+      "gols_contra": 12,
+      "saldo_gols": -2,
+      "aproveitamento": 33,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -364,19 +364,19 @@
     },
     {
       "posicao": 20,
-      "pontos": 6,
+      "pontos": 3,
       "time": {
         "nome_popular": "América-MG",
         "sigla": null
       },
       "jogos": 10,
-      "vitorias": 1,
+      "vitorias": 0,
       "empates": 3,
-      "derrotas": 6,
+      "derrotas": 7,
       "gols_pro": 6,
-      "gols_contra": 17,
-      "saldo_gols": -11,
-      "aproveitamento": 20,
+      "gols_contra": 19,
+      "saldo_gols": -13,
+      "aproveitamento": 10,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
