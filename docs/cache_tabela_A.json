@@ -1,21 +1,21 @@
 {
-  "timestamp": 1779579813,
+  "timestamp": 1779587396,
   "dados": [
     {
       "posicao": 1,
-      "pontos": 35,
+      "pontos": 38,
       "time": {
         "nome_popular": "Palmeiras",
         "sigla": "PAL"
       },
-      "jogos": 16,
-      "vitorias": 10,
+      "jogos": 17,
+      "vitorias": 11,
       "empates": 5,
       "derrotas": 1,
-      "gols_pro": 26,
+      "gols_pro": 28,
       "gols_contra": 13,
-      "saldo_gols": 13,
-      "aproveitamento": 72,
+      "saldo_gols": 15,
+      "aproveitamento": 74,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -27,14 +27,14 @@
         "nome_popular": "Flamengo",
         "sigla": "FLA"
       },
-      "jogos": 15,
+      "jogos": 16,
       "vitorias": 9,
       "empates": 4,
-      "derrotas": 2,
+      "derrotas": 3,
       "gols_pro": 28,
-      "gols_contra": 13,
-      "saldo_gols": 15,
-      "aproveitamento": 68,
+      "gols_contra": 15,
+      "saldo_gols": 13,
+      "aproveitamento": 64,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"

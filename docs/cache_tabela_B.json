@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779579814,
+  "timestamp": 1779587396,
   "dados": [
     {
       "posicao": 1,
@@ -22,6 +22,25 @@
     },
     {
       "posicao": 2,
+      "pontos": 19,
+      "time": {
+        "nome_popular": "Sport",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 1,
+      "gols_pro": 13,
+      "gols_contra": 7,
+      "saldo_gols": 6,
+      "aproveitamento": 63,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 3,
       "pontos": 18,
       "time": {
         "nome_popular": "Fortaleza",
@@ -35,12 +54,12 @@
       "gols_contra": 10,
       "saldo_gols": 4,
       "aproveitamento": 60,
-      "variacao_posicao": 3,
+      "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
     {
-      "posicao": 3,
+      "posicao": 4,
       "pontos": 17,
       "time": {
         "nome_popular": "São Bernardo",
@@ -54,26 +73,7 @@
       "gols_contra": 7,
       "saldo_gols": 8,
       "aproveitamento": 62,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 4,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Sport",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 1,
-      "gols_pro": 12,
-      "gols_contra": 7,
-      "saldo_gols": 5,
-      "aproveitamento": 56,
-      "variacao_posicao": -1,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -117,25 +117,6 @@
     },
     {
       "posicao": 7,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Juventude",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 6,
-      "gols_contra": 5,
-      "saldo_gols": 1,
-      "aproveitamento": 46,
-      "variacao_posicao": 3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 8,
       "pontos": 13,
       "time": {
         "nome_popular": "Goiás",
@@ -149,12 +130,12 @@
       "gols_contra": 12,
       "saldo_gols": -3,
       "aproveitamento": 48,
-      "variacao_posicao": -2,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 9,
+      "posicao": 8,
       "pontos": 13,
       "time": {
         "nome_popular": "Criciúma",
@@ -168,12 +149,12 @@
       "gols_contra": 8,
       "saldo_gols": 2,
       "aproveitamento": 48,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 10,
+      "posicao": 9,
       "pontos": 13,
       "time": {
         "nome_popular": "Ceará",
@@ -187,7 +168,26 @@
       "gols_contra": 11,
       "saldo_gols": 0,
       "aproveitamento": 43,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 10,
+      "pontos": 13,
+      "time": {
+        "nome_popular": "Juventude",
+        "sigla": null
+      },
+      "jogos": 10,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 3,
+      "gols_pro": 6,
+      "gols_contra": 6,
+      "saldo_gols": 0,
+      "aproveitamento": 43,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
