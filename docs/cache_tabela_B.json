@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779658910,
+  "timestamp": 1779662562,
   "dados": [
     {
       "posicao": 1,
@@ -79,19 +79,19 @@
     },
     {
       "posicao": 5,
-      "pontos": 17,
+      "pontos": 16,
       "time": {
         "nome_popular": "Vila Nova",
         "sigla": null
       },
       "jogos": 10,
       "vitorias": 4,
-      "empates": 5,
-      "derrotas": 1,
+      "empates": 4,
+      "derrotas": 2,
       "gols_pro": 14,
-      "gols_contra": 10,
-      "saldo_gols": 4,
-      "aproveitamento": 56,
+      "gols_contra": 11,
+      "saldo_gols": 3,
+      "aproveitamento": 53,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -136,19 +136,19 @@
     },
     {
       "posicao": 8,
-      "pontos": 13,
+      "pontos": 14,
       "time": {
         "nome_popular": "Goiás",
         "sigla": null
       },
-      "jogos": 9,
+      "jogos": 10,
       "vitorias": 4,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 4,
       "gols_pro": 9,
       "gols_contra": 12,
       "saldo_gols": -3,
-      "aproveitamento": 48,
+      "aproveitamento": 46,
       "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -269,19 +269,19 @@
     },
     {
       "posicao": 15,
-      "pontos": 10,
+      "pontos": 11,
       "time": {
         "nome_popular": "Avaí",
         "sigla": null
       },
-      "jogos": 9,
+      "jogos": 10,
       "vitorias": 2,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 3,
       "gols_pro": 10,
       "gols_contra": 11,
       "saldo_gols": -1,
-      "aproveitamento": 37,
+      "aproveitamento": 36,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -364,19 +364,19 @@
     },
     {
       "posicao": 20,
-      "pontos": 4,
+      "pontos": 6,
       "time": {
         "nome_popular": "América-MG",
         "sigla": null
       },
       "jogos": 10,
-      "vitorias": 0,
-      "empates": 4,
+      "vitorias": 1,
+      "empates": 3,
       "derrotas": 6,
-      "gols_pro": 5,
+      "gols_pro": 6,
       "gols_contra": 17,
-      "saldo_gols": -12,
-      "aproveitamento": 13,
+      "saldo_gols": -11,
+      "aproveitamento": 20,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
