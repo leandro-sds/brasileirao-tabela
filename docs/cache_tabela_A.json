@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779652667,
+  "timestamp": 1779655598,
   "dados": [
     {
       "posicao": 1,
@@ -60,6 +60,25 @@
     },
     {
       "posicao": 4,
+      "pontos": 27,
+      "time": {
+        "nome_popular": "Athletico-PR",
+        "sigla": "CAP"
+      },
+      "jogos": 17,
+      "vitorias": 8,
+      "empates": 3,
+      "derrotas": 6,
+      "gols_pro": 23,
+      "gols_contra": 18,
+      "saldo_gols": 5,
+      "aproveitamento": 52,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
       "pontos": 25,
       "time": {
         "nome_popular": "São Paulo",
@@ -73,26 +92,7 @@
       "gols_contra": 19,
       "saldo_gols": 4,
       "aproveitamento": 49,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
-    },
-    {
-      "posicao": 5,
-      "pontos": 25,
-      "time": {
-        "nome_popular": "Athletico-PR",
-        "sigla": "CAP"
-      },
-      "jogos": 17,
-      "vitorias": 7,
-      "empates": 4,
-      "derrotas": 6,
-      "gols_pro": 22,
-      "gols_contra": 18,
-      "saldo_gols": 4,
-      "aproveitamento": 49,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -164,9 +164,9 @@
       "vitorias": 6,
       "empates": 5,
       "derrotas": 6,
-      "gols_pro": 22,
+      "gols_pro": 23,
       "gols_contra": 26,
-      "saldo_gols": -4,
+      "saldo_gols": -3,
       "aproveitamento": 45,
       "variacao_posicao": 4,
       "ultimos_jogos": [],
@@ -345,19 +345,19 @@
     },
     {
       "posicao": 19,
-      "pontos": 16,
+      "pontos": 15,
       "time": {
         "nome_popular": "Remo",
         "sigla": "REM"
       },
       "jogos": 17,
       "vitorias": 3,
-      "empates": 7,
-      "derrotas": 7,
+      "empates": 6,
+      "derrotas": 8,
       "gols_pro": 20,
-      "gols_contra": 28,
-      "saldo_gols": -8,
-      "aproveitamento": 31,
+      "gols_contra": 29,
+      "saldo_gols": -9,
+      "aproveitamento": 29,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
@@ -374,8 +374,8 @@
       "empates": 6,
       "derrotas": 9,
       "gols_pro": 16,
-      "gols_contra": 31,
-      "saldo_gols": -15,
+      "gols_contra": 32,
+      "saldo_gols": -16,
       "aproveitamento": 18,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
