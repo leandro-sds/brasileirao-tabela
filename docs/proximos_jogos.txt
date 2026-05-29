@@ -1,16 +1,3 @@
-# Rodada 17 de 38
-
-EC Vitória x Internacional | Sáb. 23/05 | 17:00
-São Paulo x Botafogo | Sáb. 23/05 | 17:00
-Grêmio x Santos | Sáb. 23/05 | 19:00
-Mirassol x Fluminense | Sáb. 23/05 | 19:00
-Flamengo x Palmeiras | Sáb. 23/05 | 21:00
-Remo x Athletico-PR | Dom. 24/05 | 16:00
-Cruzeiro x Chapecoense | Dom. 24/05 | 16:00
-Corinthians x Atlético-MG | Dom. 24/05 | 18:30
-Vasco da Gama x Bragantino | Dom. 24/05 | 20:30
-Coritiba x Bahia | Seg. 25/05 | 20:00
-
 # Rodada 18 de 38
 
 Flamengo x Coritiba | Sáb. 30/05 | 16:00
@@ -24,3 +11,4 @@ Vasco da Gama x Atlético-MG | Dom. 31/05 | 16:00
 Palmeiras x Chapecoense | Dom. 31/05 | 16:00
 Cruzeiro x Fluminense | Dom. 31/05 | 20:30
 
+Parada para a copa do mundo 2026
