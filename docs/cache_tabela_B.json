@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780177536,
+  "timestamp": 1780180976,
   "dados": [
     {
       "posicao": 1,
@@ -79,19 +79,19 @@
     },
     {
       "posicao": 5,
-      "pontos": 19,
+      "pontos": 18,
       "time": {
         "nome_popular": "Fortaleza",
         "sigla": null
       },
       "jogos": 11,
       "vitorias": 5,
-      "empates": 4,
-      "derrotas": 2,
+      "empates": 3,
+      "derrotas": 3,
       "gols_pro": 14,
-      "gols_contra": 10,
-      "saldo_gols": 4,
-      "aproveitamento": 57,
+      "gols_contra": 11,
+      "saldo_gols": 3,
+      "aproveitamento": 54,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -136,6 +136,25 @@
     },
     {
       "posicao": 8,
+      "pontos": 17,
+      "time": {
+        "nome_popular": "Athletic Club",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 5,
+      "derrotas": 2,
+      "gols_pro": 13,
+      "gols_contra": 11,
+      "saldo_gols": 2,
+      "aproveitamento": 51,
+      "variacao_posicao": 2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 9,
       "pontos": 16,
       "time": {
         "nome_popular": "Novorizontino",
@@ -149,12 +168,12 @@
       "gols_contra": 10,
       "saldo_gols": 3,
       "aproveitamento": 53,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "pontos": 16,
       "time": {
         "nome_popular": "Juventude",
@@ -168,26 +187,7 @@
       "gols_contra": 6,
       "saldo_gols": 3,
       "aproveitamento": 48,
-      "variacao_posicao": 3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 10,
-      "pontos": 15,
-      "time": {
-        "nome_popular": "Athletic Club",
-        "sigla": null
-      },
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 6,
-      "derrotas": 2,
-      "gols_pro": 12,
-      "gols_contra": 11,
-      "saldo_gols": 1,
-      "aproveitamento": 45,
-      "variacao_posicao": 0,
+      "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
