@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780174481,
+  "timestamp": 1780177536,
   "dados": [
     {
       "posicao": 1,
@@ -79,19 +79,19 @@
     },
     {
       "posicao": 5,
-      "pontos": 18,
+      "pontos": 19,
       "time": {
         "nome_popular": "Fortaleza",
         "sigla": null
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 5,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 2,
       "gols_pro": 14,
       "gols_contra": 10,
       "saldo_gols": 4,
-      "aproveitamento": 60,
+      "aproveitamento": 57,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -174,6 +174,25 @@
     },
     {
       "posicao": 10,
+      "pontos": 15,
+      "time": {
+        "nome_popular": "Athletic Club",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 6,
+      "derrotas": 2,
+      "gols_pro": 12,
+      "gols_contra": 11,
+      "saldo_gols": 1,
+      "aproveitamento": 45,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 11,
       "pontos": 14,
       "time": {
         "nome_popular": "CRB",
@@ -187,26 +206,7 @@
       "gols_contra": 15,
       "saldo_gols": 2,
       "aproveitamento": 46,
-      "variacao_posicao": -2,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 11,
-      "pontos": 14,
-      "time": {
-        "nome_popular": "Athletic Club",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 12,
-      "gols_contra": 11,
-      "saldo_gols": 1,
-      "aproveitamento": 46,
-      "variacao_posicao": -1,
+      "variacao_posicao": -3,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
