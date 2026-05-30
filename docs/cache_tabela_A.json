@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780180976,
+  "timestamp": 1780184842,
   "dados": [
     {
       "posicao": 1,
@@ -217,14 +217,14 @@
         "nome_popular": "Vitória",
         "sigla": "VIT"
       },
-      "jogos": 16,
+      "jogos": 17,
       "vitorias": 6,
       "empates": 4,
-      "derrotas": 6,
+      "derrotas": 7,
       "gols_pro": 20,
-      "gols_contra": 22,
-      "saldo_gols": -2,
-      "aproveitamento": 45,
+      "gols_contra": 23,
+      "saldo_gols": -3,
+      "aproveitamento": 43,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
@@ -288,6 +288,25 @@
     },
     {
       "posicao": 16,
+      "pontos": 21,
+      "time": {
+        "nome_popular": "Santos",
+        "sigla": "SAN"
+      },
+      "jogos": 18,
+      "vitorias": 5,
+      "empates": 6,
+      "derrotas": 7,
+      "gols_pro": 24,
+      "gols_contra": 28,
+      "saldo_gols": -4,
+      "aproveitamento": 38,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 17,
       "pontos": 20,
       "time": {
         "nome_popular": "Vasco da Gama",
@@ -301,26 +320,7 @@
       "gols_contra": 28,
       "saldo_gols": -6,
       "aproveitamento": 39,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 17,
-      "pontos": 18,
-      "time": {
-        "nome_popular": "Santos",
-        "sigla": "SAN"
-      },
-      "jogos": 17,
-      "vitorias": 4,
-      "empates": 6,
-      "derrotas": 7,
-      "gols_pro": 23,
-      "gols_contra": 28,
-      "saldo_gols": -5,
-      "aproveitamento": 35,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
