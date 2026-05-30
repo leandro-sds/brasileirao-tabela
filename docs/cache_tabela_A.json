@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780167203,
+  "timestamp": 1780171171,
   "dados": [
     {
       "posicao": 1,
@@ -22,19 +22,19 @@
     },
     {
       "posicao": 2,
-      "pontos": 31,
+      "pontos": 34,
       "time": {
         "nome_popular": "Flamengo",
         "sigla": "FLA"
       },
-      "jogos": 16,
-      "vitorias": 9,
+      "jogos": 17,
+      "vitorias": 10,
       "empates": 4,
       "derrotas": 3,
-      "gols_pro": 28,
+      "gols_pro": 29,
       "gols_contra": 16,
-      "saldo_gols": 12,
-      "aproveitamento": 64,
+      "saldo_gols": 13,
+      "aproveitamento": 66,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -60,20 +60,20 @@
     },
     {
       "posicao": 4,
-      "pontos": 27,
+      "pontos": 28,
       "time": {
         "nome_popular": "Athletico-PR",
         "sigla": "CAP"
       },
-      "jogos": 17,
+      "jogos": 18,
       "vitorias": 8,
-      "empates": 3,
+      "empates": 4,
       "derrotas": 6,
       "gols_pro": 23,
       "gols_contra": 18,
       "saldo_gols": 5,
-      "aproveitamento": 52,
-      "variacao_posicao": 1,
+      "aproveitamento": 51,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -92,7 +92,7 @@
       "gols_contra": 18,
       "saldo_gols": 4,
       "aproveitamento": 50,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
     },
@@ -103,15 +103,15 @@
         "nome_popular": "Coritiba",
         "sigla": "CFC"
       },
-      "jogos": 17,
+      "jogos": 18,
       "vitorias": 7,
       "empates": 5,
-      "derrotas": 5,
+      "derrotas": 6,
       "gols_pro": 24,
-      "gols_contra": 21,
-      "saldo_gols": 3,
-      "aproveitamento": 50,
-      "variacao_posicao": 2,
+      "gols_contra": 22,
+      "saldo_gols": 2,
+      "aproveitamento": 48,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -130,7 +130,7 @@
       "gols_contra": 19,
       "saldo_gols": 4,
       "aproveitamento": 49,
-      "variacao_posicao": -3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "pre-libertadores"
     },
@@ -149,7 +149,7 @@
       "gols_contra": 22,
       "saldo_gols": 1,
       "aproveitamento": 47,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -168,7 +168,7 @@
       "gols_contra": 27,
       "saldo_gols": -4,
       "aproveitamento": 45,
-      "variacao_posicao": 4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -187,7 +187,7 @@
       "gols_contra": 29,
       "saldo_gols": 1,
       "aproveitamento": 45,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -206,7 +206,7 @@
       "gols_contra": 22,
       "saldo_gols": -2,
       "aproveitamento": 45,
-      "variacao_posicao": 3,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -225,7 +225,7 @@
       "gols_contra": 23,
       "saldo_gols": -2,
       "aproveitamento": 41,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -244,7 +244,7 @@
       "gols_contra": 19,
       "saldo_gols": 1,
       "aproveitamento": 41,
-      "variacao_posicao": -2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "sul-americana"
     },
@@ -263,7 +263,7 @@
       "gols_contra": 20,
       "saldo_gols": -1,
       "aproveitamento": 41,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -282,7 +282,7 @@
       "gols_contra": 18,
       "saldo_gols": -3,
       "aproveitamento": 41,
-      "variacao_posicao": 2,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -301,7 +301,7 @@
       "gols_contra": 28,
       "saldo_gols": -6,
       "aproveitamento": 39,
-      "variacao_posicao": -4,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -320,26 +320,26 @@
       "gols_contra": 28,
       "saldo_gols": -5,
       "aproveitamento": 35,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
     {
       "posicao": 18,
-      "pontos": 16,
+      "pontos": 17,
       "time": {
         "nome_popular": "Mirassol",
         "sigla": "MIR"
       },
-      "jogos": 16,
+      "jogos": 17,
       "vitorias": 4,
-      "empates": 4,
+      "empates": 5,
       "derrotas": 8,
       "gols_pro": 18,
       "gols_contra": 23,
       "saldo_gols": -5,
       "aproveitamento": 33,
-      "variacao_posicao": 1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
@@ -358,7 +358,7 @@
       "gols_contra": 29,
       "saldo_gols": -9,
       "aproveitamento": 29,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
