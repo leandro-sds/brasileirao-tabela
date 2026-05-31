@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780266650,
+  "timestamp": 1780271540,
   "dados": [
     {
       "posicao": 1,
@@ -212,19 +212,19 @@
     },
     {
       "posicao": 12,
-      "pontos": 14,
+      "pontos": 15,
       "time": {
         "nome_popular": "CRB",
         "sigla": null
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 4,
-      "empates": 2,
+      "empates": 3,
       "derrotas": 4,
       "gols_pro": 17,
       "gols_contra": 15,
       "saldo_gols": 2,
-      "aproveitamento": 46,
+      "aproveitamento": 45,
       "variacao_posicao": -4,
       "ultimos_jogos": [],
       "faixa_classificacao": null
@@ -269,6 +269,25 @@
     },
     {
       "posicao": 15,
+      "pontos": 11,
+      "time": {
+        "nome_popular": "Cuiabá",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 1,
+      "empates": 8,
+      "derrotas": 2,
+      "gols_pro": 4,
+      "gols_contra": 5,
+      "saldo_gols": -1,
+      "aproveitamento": 33,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 16,
       "pontos": 10,
       "time": {
         "nome_popular": "Avaí",
@@ -282,26 +301,7 @@
       "gols_contra": 15,
       "saldo_gols": -4,
       "aproveitamento": 30,
-      "variacao_posicao": 0,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 16,
-      "pontos": 10,
-      "time": {
-        "nome_popular": "Cuiabá",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 1,
-      "empates": 7,
-      "derrotas": 2,
-      "gols_pro": 4,
-      "gols_contra": 5,
-      "saldo_gols": -1,
-      "aproveitamento": 33,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
