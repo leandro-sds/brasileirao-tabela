@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780231973,
+  "timestamp": 1780237426,
   "dados": [
     {
       "posicao": 1,
@@ -79,19 +79,19 @@
     },
     {
       "posicao": 5,
-      "pontos": 26,
+      "pontos": 29,
       "time": {
         "nome_popular": "Bragantino",
         "sigla": "BGT"
       },
-      "jogos": 17,
-      "vitorias": 8,
+      "jogos": 18,
+      "vitorias": 9,
       "empates": 2,
       "derrotas": 7,
-      "gols_pro": 22,
+      "gols_pro": 23,
       "gols_contra": 18,
-      "saldo_gols": 4,
-      "aproveitamento": 50,
+      "saldo_gols": 5,
+      "aproveitamento": 53,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -255,14 +255,14 @@
         "nome_popular": "Internacional",
         "sigla": "INT"
       },
-      "jogos": 17,
+      "jogos": 18,
       "vitorias": 5,
       "empates": 6,
-      "derrotas": 6,
+      "derrotas": 7,
       "gols_pro": 20,
-      "gols_contra": 19,
-      "saldo_gols": 1,
-      "aproveitamento": 41,
+      "gols_contra": 20,
+      "saldo_gols": 0,
+      "aproveitamento": 38,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
