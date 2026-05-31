@@ -1,21 +1,21 @@
 {
-  "timestamp": 1780257644,
+  "timestamp": 1780262924,
   "dados": [
     {
       "posicao": 1,
-      "pontos": 39,
+      "pontos": 41,
       "time": {
         "nome_popular": "Palmeiras",
         "sigla": "PAL"
       },
       "jogos": 18,
-      "vitorias": 11,
-      "empates": 6,
+      "vitorias": 12,
+      "empates": 5,
       "derrotas": 1,
-      "gols_pro": 29,
+      "gols_pro": 30,
       "gols_contra": 13,
-      "saldo_gols": 16,
-      "aproveitamento": 72,
+      "saldo_gols": 17,
+      "aproveitamento": 75,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -364,19 +364,19 @@
     },
     {
       "posicao": 20,
-      "pontos": 10,
+      "pontos": 9,
       "time": {
         "nome_popular": "Chapecoense",
         "sigla": "CHA"
       },
       "jogos": 17,
       "vitorias": 1,
-      "empates": 7,
-      "derrotas": 9,
+      "empates": 6,
+      "derrotas": 10,
       "gols_pro": 17,
-      "gols_contra": 32,
-      "saldo_gols": -15,
-      "aproveitamento": 19,
+      "gols_contra": 33,
+      "saldo_gols": -16,
+      "aproveitamento": 17,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"

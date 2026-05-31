@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780257645,
+  "timestamp": 1780262924,
   "dados": [
     {
       "posicao": 1,
@@ -195,7 +195,7 @@
       "posicao": 11,
       "pontos": 16,
       "time": {
-        "nome_popular": "Ceará",
+        "nome_popular": "Operário PR",
         "sigla": null
       },
       "jogos": 11,
@@ -203,10 +203,10 @@
       "empates": 4,
       "derrotas": 3,
       "gols_pro": 12,
-      "gols_contra": 11,
-      "saldo_gols": 1,
+      "gols_contra": 14,
+      "saldo_gols": -2,
       "aproveitamento": 48,
-      "variacao_posicao": 0,
+      "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -233,6 +233,25 @@
       "posicao": 13,
       "pontos": 13,
       "time": {
+        "nome_popular": "Ceará",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 3,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 12,
+      "gols_contra": 13,
+      "saldo_gols": -1,
+      "aproveitamento": 39,
+      "variacao_posicao": -2,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 14,
+      "pontos": 13,
+      "time": {
         "nome_popular": "Atlético Goianiense",
         "sigla": null
       },
@@ -244,26 +263,7 @@
       "gols_contra": 11,
       "saldo_gols": -1,
       "aproveitamento": 39,
-      "variacao_posicao": 1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 14,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Operário PR",
-        "sigla": null
-      },
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 10,
-      "gols_contra": 14,
-      "saldo_gols": -4,
-      "aproveitamento": 39,
-      "variacao_posicao": -1,
+      "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
