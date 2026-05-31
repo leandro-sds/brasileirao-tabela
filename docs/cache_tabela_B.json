@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780253815,
+  "timestamp": 1780257645,
   "dados": [
     {
       "posicao": 1,
@@ -193,6 +193,25 @@
     },
     {
       "posicao": 11,
+      "pontos": 16,
+      "time": {
+        "nome_popular": "Ceará",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 4,
+      "empates": 4,
+      "derrotas": 3,
+      "gols_pro": 12,
+      "gols_contra": 11,
+      "saldo_gols": 1,
+      "aproveitamento": 48,
+      "variacao_posicao": 0,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 12,
       "pontos": 14,
       "time": {
         "nome_popular": "CRB",
@@ -206,26 +225,7 @@
       "gols_contra": 15,
       "saldo_gols": 2,
       "aproveitamento": 46,
-      "variacao_posicao": -3,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 12,
-      "pontos": 13,
-      "time": {
-        "nome_popular": "Ceará",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 3,
-      "gols_pro": 11,
-      "gols_contra": 11,
-      "saldo_gols": 0,
-      "aproveitamento": 43,
-      "variacao_posicao": -1,
+      "variacao_posicao": -4,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -255,14 +255,14 @@
         "nome_popular": "Operário PR",
         "sigla": null
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 3,
       "empates": 4,
-      "derrotas": 3,
+      "derrotas": 4,
       "gols_pro": 10,
-      "gols_contra": 13,
-      "saldo_gols": -3,
-      "aproveitamento": 43,
+      "gols_contra": 14,
+      "saldo_gols": -4,
+      "aproveitamento": 39,
       "variacao_posicao": -1,
       "ultimos_jogos": [],
       "faixa_classificacao": null
