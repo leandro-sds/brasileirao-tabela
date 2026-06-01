@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780340505,
+  "timestamp": 1780352296,
   "dados": [
     {
       "posicao": 1,
@@ -290,6 +290,25 @@
       "posicao": 16,
       "pontos": 10,
       "time": {
+        "nome_popular": "Botafogo-SP",
+        "sigla": null
+      },
+      "jogos": 11,
+      "vitorias": 2,
+      "empates": 4,
+      "derrotas": 5,
+      "gols_pro": 11,
+      "gols_contra": 11,
+      "saldo_gols": 0,
+      "aproveitamento": 30,
+      "variacao_posicao": 1,
+      "ultimos_jogos": [],
+      "faixa_classificacao": null
+    },
+    {
+      "posicao": 17,
+      "pontos": 10,
+      "time": {
         "nome_popular": "Avaí",
         "sigla": null
       },
@@ -301,26 +320,7 @@
       "gols_contra": 15,
       "saldo_gols": -4,
       "aproveitamento": 30,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 17,
-      "pontos": 9,
-      "time": {
-        "nome_popular": "Botafogo-SP",
-        "sigla": null
-      },
-      "jogos": 10,
-      "vitorias": 2,
-      "empates": 3,
-      "derrotas": 5,
-      "gols_pro": 11,
-      "gols_contra": 11,
-      "saldo_gols": 0,
-      "aproveitamento": 30,
-      "variacao_posicao": 0,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
     },
@@ -345,19 +345,19 @@
     },
     {
       "posicao": 19,
-      "pontos": 7,
+      "pontos": 8,
       "time": {
         "nome_popular": "Ponte Preta",
         "sigla": null
       },
-      "jogos": 10,
+      "jogos": 11,
       "vitorias": 2,
-      "empates": 1,
+      "empates": 2,
       "derrotas": 7,
       "gols_pro": 9,
       "gols_contra": 20,
       "saldo_gols": -11,
-      "aproveitamento": 23,
+      "aproveitamento": 24,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
