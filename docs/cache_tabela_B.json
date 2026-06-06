@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780750773,
+  "timestamp": 1780756111,
   "dados": [
     {
       "posicao": 1,
@@ -60,6 +60,25 @@
     },
     {
       "posicao": 4,
+      "pontos": 20,
+      "time": {
+        "nome_popular": "Criciúma",
+        "sigla": null
+      },
+      "jogos": 12,
+      "vitorias": 5,
+      "empates": 5,
+      "derrotas": 2,
+      "gols_pro": 14,
+      "gols_contra": 10,
+      "saldo_gols": 4,
+      "aproveitamento": 55,
+      "variacao_posicao": 4,
+      "ultimos_jogos": [],
+      "faixa_classificacao": "libertadores"
+    },
+    {
+      "posicao": 5,
       "pontos": 19,
       "time": {
         "nome_popular": "Náutico",
@@ -73,12 +92,12 @@
       "gols_contra": 11,
       "saldo_gols": 5,
       "aproveitamento": 57,
-      "variacao_posicao": 0,
+      "variacao_posicao": -1,
       "ultimos_jogos": [],
-      "faixa_classificacao": "libertadores"
+      "faixa_classificacao": null
     },
     {
-      "posicao": 5,
+      "posicao": 6,
       "pontos": 19,
       "time": {
         "nome_popular": "Operário PR",
@@ -92,12 +111,12 @@
       "gols_contra": 15,
       "saldo_gols": -1,
       "aproveitamento": 52,
-      "variacao_posicao": 6,
+      "variacao_posicao": 5,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 6,
+      "posicao": 7,
       "pontos": 18,
       "time": {
         "nome_popular": "Fortaleza",
@@ -111,12 +130,12 @@
       "gols_contra": 11,
       "saldo_gols": 3,
       "aproveitamento": 54,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 7,
+      "posicao": 8,
       "pontos": 17,
       "time": {
         "nome_popular": "Goiás",
@@ -130,12 +149,12 @@
       "gols_contra": 13,
       "saldo_gols": -1,
       "aproveitamento": 51,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
     {
-      "posicao": 8,
+      "posicao": 9,
       "pontos": 17,
       "time": {
         "nome_popular": "Novorizontino",
@@ -149,26 +168,7 @@
       "gols_contra": 11,
       "saldo_gols": 3,
       "aproveitamento": 51,
-      "variacao_posicao": -1,
-      "ultimos_jogos": [],
-      "faixa_classificacao": null
-    },
-    {
-      "posicao": 9,
-      "pontos": 17,
-      "time": {
-        "nome_popular": "Criciúma",
-        "sigla": null
-      },
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 13,
-      "gols_contra": 10,
-      "saldo_gols": 3,
-      "aproveitamento": 51,
-      "variacao_posicao": -1,
+      "variacao_posicao": -2,
       "ultimos_jogos": [],
       "faixa_classificacao": null
     },
@@ -331,14 +331,14 @@
         "nome_popular": "Londrina",
         "sigla": null
       },
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 2,
       "empates": 2,
-      "derrotas": 7,
+      "derrotas": 8,
       "gols_pro": 12,
-      "gols_contra": 19,
-      "saldo_gols": -7,
-      "aproveitamento": 24,
+      "gols_contra": 20,
+      "saldo_gols": -8,
+      "aproveitamento": 22,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": "rebaixados"
