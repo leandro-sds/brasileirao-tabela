@@ -1,21 +1,21 @@
 {
-  "timestamp": 1780864831,
+  "timestamp": 1780869305,
   "dados": [
     {
       "posicao": 1,
-      "pontos": 22,
+      "pontos": 24,
       "time": {
         "nome_popular": "São Bernardo",
         "sigla": null
       },
       "jogos": 12,
-      "vitorias": 6,
-      "empates": 4,
+      "vitorias": 7,
+      "empates": 3,
       "derrotas": 2,
-      "gols_pro": 19,
+      "gols_pro": 20,
       "gols_contra": 10,
-      "saldo_gols": 9,
-      "aproveitamento": 61,
+      "saldo_gols": 10,
+      "aproveitamento": 66,
       "variacao_posicao": 2,
       "ultimos_jogos": [],
       "faixa_classificacao": "libertadores"
@@ -212,19 +212,19 @@
     },
     {
       "posicao": 12,
-      "pontos": 15,
+      "pontos": 14,
       "time": {
         "nome_popular": "CRB",
         "sigla": null
       },
       "jogos": 12,
       "vitorias": 4,
-      "empates": 3,
-      "derrotas": 5,
+      "empates": 2,
+      "derrotas": 6,
       "gols_pro": 19,
-      "gols_contra": 19,
-      "saldo_gols": 0,
-      "aproveitamento": 41,
+      "gols_contra": 20,
+      "saldo_gols": -1,
+      "aproveitamento": 38,
       "variacao_posicao": 0,
       "ultimos_jogos": [],
       "faixa_classificacao": null
